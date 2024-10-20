@@ -3,6 +3,54 @@
 Если в последовательности есть отрицательные числа, то вы должны сообщить об этом пользователю и предложить повторить ввод еще раз.
 */
 
+int min_positive_number_detection(std::vector<int> vec) {
+    int min = vec[0];
+    for (int i = 0; i < vec.size(); ++i) {
+        if (vec[i] < min) {
+            min = vec[i];
+        }
+        else if (i < 0) {
+            std::cout << "Negative number found. Please enter again!";
+            // break - continue
+        }
+        // чтобы это сработало, нужен while, потому что выход из for ведет к концу программы? 
+        
+    }
+    return min;
+}
+
+int main() {
+    std::vector<int> user_vec;
+    int vec_length;
+    int user_number;
+    std::cin >> vec_length;
+    user_vec.resize(vec_length);
+    for (int i = 0; i < vec_length; ++i) {
+        std::cin >> user_number; 
+    }
+    std::cout << min_positive_number_detection(user_vec);
+}
+
+
+
+// стоит ли разделить функционал проверки числа на отрицательность и вычисление минимального в последовательности? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <iostream>
 #include <vector>
 
@@ -42,32 +90,10 @@ int main() {
 }
 
 
-/*
-#include <iostream>
-#include <vector>
-
-int main() {
-
-    std::vector<int> input_numbers;
-    
-    for (auto iter : input_numbers) { // bad. i cant input from keyboad (why?) bcs i need to fill vec with input
-        int min = iter; // should be defined before loop, or it is created during each loop iteration
-        std::cin >> iter;
-        if (iter < 0) {
-            std::cout << "Wrong input! try non-negative number: " << std::endl;
-            std::cin >> iter;
-        }
-        else {
-            if ((iter - 0) <= min) { // min was not init yet! (why?)
-            // wrong comparison. dont compare with 0. compare with current min
-            
-                min = iter;
-            }
-
-        }
-        std::cout << min;
-    }
-}
 
 
-*/
+
+
+
+
+
