@@ -39,3 +39,33 @@ Node* merge(Node* t1, Node* t2) {
         return t2;
     }
 }
+
+
+
+////////////////////////
+
+
+Node* merge(Node* t1, Node* t2) {
+    if (!t1) return t2;
+    if (!t2) return t1;
+
+    if (t1->priority >= t2->priority) {
+        t1->right = merge(t1->right, t2);
+        return t1;
+    } else {
+        t2->left = merge(t2->left, t1);
+        return t2;
+    }
+}
+
+void insert(const std::string& key, uint64_t value) {
+    auto pr = split(root, key);
+    Node* res = merge(pr.first, new Node(key, value));
+    root = merge(res, pr.second);
+}
+
+
+void erase(const std::string& key) {
+    auto pr = split(root, key);
+    root = merge(pr.first, pr.second);
+}
