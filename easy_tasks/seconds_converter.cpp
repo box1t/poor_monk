@@ -10,6 +10,7 @@ int main() {
     hours = seconds / 3600; // почему целая часть выделяется здесь сама?
     minutes = (seconds % 3600 / 60);
     seconds = (seconds % 3600 % 60);
+    // seconds = seconds % 60; // - аналогично предыдущей строке
 
     std::cout << '\n' << hours << '\n' << minutes << '\n' << seconds << '\n';
 }
