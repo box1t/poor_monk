@@ -1,0 +1,309 @@
+Задание №1:
+Выведите последовательность в обратном порядке.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main()
+{
+    int n;
+    int a[1000]={0};
+    cin>>n;
+    for (int i=0; i<n; i++)
+    {
+        cin>>a[i];
+    }
+    for (int i=n-1; i>=0; i--)
+    {
+        cout<<a[i]<<" ";
+    }
+    cout<<endl;
+    return 0;
+}
+
+Задание №2:
+Выведите элементы последовательности, которые больше среднего арифметического ее элементов.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main()
+{
+    int n;
+    float s=0,sa;
+    int a[1000]={0};
+    cin>>n;
+    for (int i=0; i<n; i++)
+    {
+        cin>>a[i];
+    }
+    for (int i=0; i<n; i++)
+    {
+        s=s+a[i];
+    }
+    sa=s/n;
+    for (int i=0; i<n; i++)
+    {
+        if (a[i]>sa) cout<<a[i]<<" ";
+    }
+    cout<<endl;
+    return 0;
+}
+
+Задание №3:
+Найдите определенное количество наибольших элементов массива.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main()
+{
+    int n, m;
+    int a[1000]={0};
+    cin>>n;
+    for (int i=0; i<n; i++)
+    {
+        cin>>a[i];
+    }
+    cin>>m;
+    for (int c=0; c<n; c++)
+    {
+        for (int i=0; i<n-c-1; i++)
+    {
+        if (a[i]>a[i+1])
+        {
+            int b=a[i];
+            a[i]=a[i+1];
+            a[i+1]=b;
+        }
+    }
+    }
+    for (int i=n-m; i<n; i++)
+    {
+        cout<<a[i]<<" ";
+    }
+    cout<<endl;
+    return 0;
+}
+
+Задание №4:
+Задание №5:
+Задание №6:
+Задание №7:
+
+Задание №8:
+Найдите столбец прямоугольной матрицы, сумма элементов которого является наибольшей.
+
+#include <iostream>
+using std::cin;
+using std::cout;
+using std::endl;
+int main()
+{
+    int n=0, m=0, max_in=0, max_s=-1000000;
+    cin>>n>>m;
+    int a[100][100];
+    for (int i=0; i<n; i++)
+    {
+        for (int j=0; j<m; j++)
+        {
+            cin>>a[i][j];
+        }
+    }
+    for (int j=0;j<m;j++)
+    {
+        int s=0;
+        for (int i=0;i<n; i++)
+        {
+            s=s+a[i][j];
+        }
+        if (s>max_s)
+        {
+            max_s=s;
+            max_in=j;
+        }
+    }
+    cout<<max_in<<endl;
+    return 0;
+}
+
+Задание №9:
+Транспонируйте небольшую квадратную матрицу.
+
+#include <iostream>
+using std::cin;
+using std::cout;
+using std::endl;
+int main()
+{
+    int n=0;
+    cin>>n;
+    int a[100][100];
+    for (int i=0; i<n; i++)
+    {
+       for (int j=0; j<n; j++)
+        {
+            cin>>a[i][j];
+        }
+    }
+    int t;
+    for (int i=0; i<n; i++)
+    {
+        for (int j=i; j<n; j++)
+        {
+            t=a[i][j];
+            a[i][j]=a[j][i];
+            a[j][i]=t;
+        }
+    }
+    for (int i=0;i<n;i++)
+    {
+        for (int j=0;j<n;j++)
+        {
+            cout<<a[i][j]<<" ";
+        }
+        cout<<"\n";
+    }
+    return 0;
+}
+
+Задание №10:
+Транспонируйте небольшую матрицу
+
+#include <iostream>
+using std::cin;
+using std::cout;
+using std::endl;
+int main()
+{
+    int n=0,m=0;
+    cin>>n>>m;
+    int a[100][100];
+    for (int i=0; i<n; i++)
+    {
+       for (int j=0; j<m; j++)
+        {
+            cin>>a[i][j];
+        }
+    }
+    int t, max=0;
+    if (n>m) max=n;
+    else max=m;
+    for (int i=0; i<max; i++)
+    {
+        for (int j=i; j<max; j++)
+        {
+            t=a[i][j];
+            a[i][j]=a[j][i];
+            a[j][i]=t;
+        }
+    }
+    for (int i=0;i<m;i++)
+    {
+        for (int j=0;j<n;j++)
+        {
+            cout<<a[i][j]<<" ";
+        }
+        cout<<"\n";
+    }
+    return 0;
+}
+
+Задание №11:
+Считайте с экрана "картинку", нарисованную символами. Поверните ее на pi/2 (против часовой стрелки) и выведите на экран. 
+Напоминаем, что она будет считывать в том числе пробелы и окончания строк ('\n').
+
+#include <iostream>
+using std::cin;
+using std::cout;
+using std::endl;
+int main()
+{
+  int n,m;
+  char a[25][25];
+  cin>>n>>m;
+  char c;
+  for (int i=0; i<n; i++)
+  {
+      for (int j=-1; j<m; j++)
+      {
+          cin.get(c);
+          a[i][j]=c;
+      }
+  }
+  for (int j=m; j>0; j--)
+  {
+      for (int i=0; i<n; i++)
+      {
+          cout<<a[i][j-1];
+      }
+      cout<<endl;
+  }
+  return 0;
+}
+
+Задание №12:
+
+Напишите функцию, которая складывает два вектора.
+
+struct Vector {
+    int x, y, z;
+};
+Vector sum(Vector a, Vector b);
+Vector sum(Vector a, Vector b)
+{
+    Vector result={0, 0, 0};
+    result.x=a.x+b.x;
+    result.y=a.y+b.y;
+    result.z=a.z+b.z;
+    return result;
+}
+
+Задание №13:
+Структура StrangeMatrix хранит данные о матрице 3х3 в следующем виде:
+
+struct StrangeMatrix {
+	int first_line[3];
+	int second_line[3];
+	int third_line[3];
+};
+Напишите функцию, которая транспонирует такую матрицу:
+
+StrangeMatrix transpose(StrangeMatrix m);
+StrangeMatrix transpose(StrangeMatrix m)
+{
+    auto result=m;
+    result.first_line[1]=m.second_line[0];
+    result.first_line[2]=m.third_line[0];
+    result.second_line[0]=m.first_line[1];
+    result.second_line[2]=m.third_line[1];
+    result.third_line[0]=m.first_line[2];
+    result.third_line[1]=m.second_line[2];
+    return result;
+}
+
+Задание №14:
+Напишите функцию, которая анализирует массив структур, содержащий данные о персонажах компьютерной игры, и находит тех, здоровье которых строго ниже определенного предела. 
+
+struct Protoss {
+    unsigned long long int id;
+    unsigned int health, shield, position[2];
+    char name[100];
+};
+unsigned int count_wounded(Protoss* army, unsigned int n, unsigned int threshold);
+unsigned int count_wounded(Protoss* army, unsigned int n, unsigned int threshold)
+{
+    int wounded=0;
+    for (unsigned int i=0; i<n; i++)
+    {
+        if (army[i].health<threshold) wounded++;
+    }
+    return wounded;
+}
+
+Задание №15:
+Задание №16:
+Задание №17:

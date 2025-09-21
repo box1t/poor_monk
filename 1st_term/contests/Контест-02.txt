@@ -1,0 +1,184 @@
+Задание №1
+Напишите функцию, которая обращает целое число.
+
+int minus_of_int(int x);
+int minus_of_int(int x)
+{
+    return (x=x*(-1));
+}
+
+Задание №2
+Напишите функцию, которая проверяет, является ли целое число простым.
+
+bool is_simple(int n);
+bool is_simple(int n)
+{
+    int a=0; //a- количество делителей
+   for(int i=1; i<=n;i++)
+   {
+       if (n%i==0) a++;
+   }
+   return(a<=2);
+}
+
+Задание №3
+Напишите функцию, которая складывает два целых числа.
+
+int sum(int a, int b);
+int sum(int a, int b)
+{
+   int sum=a+b;
+   return(sum); 
+}
+
+Задание №4
+Напишите функцию, которая находит сумму цифр десятеричного представления числа.
+
+unsigned int sum_of_numbers(unsigned int n);
+unsigned int sum_of_numbers(unsigned int n)
+{
+   int res=0, c;
+    while (n)
+    {
+        c=n%10;
+        res=res+c;
+        n=n/10;
+    }
+    return (res); 
+}
+
+Задание №5
+Напишите функцию, которая выводит на экран двоичное представление числа. Подумайте, как можно использовать рекурсию, чтобы вывести цифры в правильном порядке.
+
+void binary(unsigned int n);
+void binary(unsigned int n)
+{
+    if (n>1) binary(n/2);
+    cout<<n%2;
+}
+
+Задание №6
+Напишите функцию, которая находит факториал введенного числа.
+
+unsigned long long int factorial(unsigned int n);
+unsigned long long int factorial(unsigned int n)
+{
+  long f=1;
+    for(int i=1; i<=n; i++)
+    {
+        f=f*i;
+    }
+   return (f);
+}
+
+Задание №7
+Напишите функцию, которая находит число Фибоначчи с нужным номером.
+F(1) = 0
+F(2) = 1
+F(N) = F(N - 1) + F(N - 2), N >= 3
+
+unsigned long long int fibonacci(unsigned int n);
+unsigned long long int fibonacci(unsigned int n)
+{
+    long long c=0, d=1;
+    if (n==1) return (c);
+    if (n==2) return(d);
+    for (int i=0;i<(n-1);i++)
+    {
+        c=c+d;
+        d=c-d;
+       // cout << c <<" "<< d<< '\n';
+    }
+    return(c);
+
+}
+
+Задание №8
+Напишите функцию, которая находит число ноначчи с нужным номером.
+F(N) = 0, 0 <= N < 8
+F(8) = 1
+F(N) = F(N - 1) + F(N - 2) + ... + F(N - 9), N >= 9
+
+unsigned long long int nonacci(unsigned int n);
+unsigned long long int nonacci(unsigned int n)
+
+{
+  auto a=0ull, b=0ull, c=0ull, d=0ull, e=0ull, f=0ull, g=0ull, h=0ull, j=1ull;
+    for (auto i=0u; i<n; i++)
+    {
+        auto t=j;
+        j=a+b+c+d+e+f+g+h+j;
+        a=b;
+        b=c;
+        c=d;
+        d=e;
+        e=f;
+        f=g;
+        g=h;
+        h=t;
+    }
+    return a;  
+}
+
+Задание №9
+Напишите функцию, которая получает натуральное число и находит сумму цифр его записи в троичной системе счисления.
+
+unsigned int sum_ternary(unsigned int a);
+unsigned int sum_ternary(unsigned int a)
+  {
+      unsigned int o=0, sum=0;
+      while (a>0)
+        {
+            o=a%3;
+            sum=sum+o;
+            a=a/3;
+        }
+      return (sum);
+  }
+
+Задание №10
+Напишите функцию, которая определяет, является ли введенный символ цифрой.
+
+bool is_a_number(char c);
+bool is_a_number(char c)
+{
+     return (c - '0'>=0&&c - '0'<=9);
+}
+
+Задание №11
+Напишите функцию, которая превращает прописную букву в строчную. Если функция получает на вход символ, не являющийся прописной буквой, то она возвращает его без изменений. 
+
+char leveling(char c);
+char leveling(char c)
+{
+   if (c >= 'A' && c <= 'Z')
+        {
+            return c + 32;
+        }
+    return c; 
+}
+
+Задание №12
+Напишите функцию, которая считывает одну букву из стандартного потока ввода, игнорируя все остальные символы. Их можно считывать в промежуточную переменную, а потом "выбрасывать" - переписывать новым значением.
+
+char get_a_letter();
+char get_a_letter()
+{
+    char c;
+    while(true)
+    {
+        cin>>c;
+        if (('a'<= c &&c <='z')||('A'<= c&&c <='Z'))
+        {
+            break;
+        }
+    }
+    return c;
+}
+
+Задание №13
+Напишите функцию, которая считывает с экрана одно число в шестнадцатеричном формате.
+
+unsigned long get_a_hexadecimal();
+
+Задание №14

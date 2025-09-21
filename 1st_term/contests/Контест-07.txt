@@ -1,0 +1,24 @@
+Задание №1:
+Посчитать число последовательностей нулей и единиц длины n, в которых не встречаются две идущие подряд единицы.
+
+#include <iostream>
+using std:: cin;
+using std:: cout;
+using std:: endl;
+int main ()
+{
+    int n;
+    cin>> n;
+    long long int last0, last1, next0, next1;
+    next0=1;
+    next1=1;
+    for (int i=0; i<n-1; i++)
+    {
+        last0=next0;
+        last1=next1;
+        next0=last0+last1;
+        next1=last0;
+    }
+    cout<<next0+next1<<endl;
+    return 0;
+}

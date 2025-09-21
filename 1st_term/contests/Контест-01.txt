@@ -1,0 +1,420 @@
+Задание №1: 
+Выведите на экран строку "A simple problem." Без кавычек, с точкой.
+
+#include <iostream>
+using std:: cout;
+using std:: endl;
+    int main ()
+    {
+        cout<<"A simple problem."<<endl;
+        return 0;
+    }
+
+Задание №2:
+Найдите сумму двух целых чисел, введенных с клавиатуры.
+
+#include <iostream>
+using std:: cout;
+using std:: endl;
+using std:: cin;
+int main()
+{
+    int a, b;
+    cin >>a>>b;
+    int c=a+b;
+    cout<<c<<endl;
+    return 0;
+}
+
+Задание №3:
+Проверить, кратно ли введенное целое число тринадцати.
+
+#include <iostream>
+using namespace std;
+int main ()
+{
+    const int a=13;
+    int b;
+    cin>>b;
+    int c=b%a;
+    if (c==0) cout<<"Yes"<<endl;
+    else cout<<"No";
+    return 0;
+}
+
+Задание №4:
+С помощью печати символа '+' нарисуйте на экране прямоугольник заданного размера.
+
+#include <iostream>
+using namespace std;
+int main ()
+{
+    int n,m;
+    cin>>m>>n;
+    for(int i=0;i<m; i++)
+    {
+        for(int a=0;a<n; a++)
+        {
+            cout<<"+";
+        }
+        cout<<endl;
+    }
+    return 0;
+}
+
+Задание №5:
+Найдите наибольший по модулю элемент из последовательности чисел.
+
+#include <iostream>
+using std::cout;
+using std::cin;
+using std::endl;
+int main ()
+{
+    int n,m,c=0;
+    cin>>n;
+    for(int i=0; i<n; i++)
+    {
+        cin>>m;
+    if (abs(m)>abs(c))
+        c=m;
+    }
+    cout<<c<<endl;
+    return 0;
+}
+
+Задание №6:
+С помощью печати символа '+' нарисуйте на экране прямоугольную рамку заданного размера.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main ()
+{
+    int n,m;
+    cin>>n>>m;
+    for (int i=0; i<m; i++)
+    {
+        cout<<"+";
+    }
+    cout<<endl;
+     if (n!=1&&m!=1)
+        {
+            for(int a=0;a<(n-2);a++)
+            {
+                cout<<"+";
+        for (int x=0;x<(m-2);x++)
+        {
+            cout<<" ";
+        }
+        cout<<"+";
+        cout<<endl;
+            }
+        for (int i=0; i<m; i++)
+        {
+            cout<<"+";
+        }
+     }
+    else cout<<endl;
+   return 0;
+}
+
+Задание №7:
+Найти факториал натурального числа.
+
+#include <iostream>
+using std::cout;
+using std::cin;
+using std::endl;
+int main ()
+{
+    int n,m=1;
+    long f=1;
+    cin>>n;
+    for(int i=0; i<n; i++)
+    {
+        f=f*m;
+        m=m+1;
+    }
+    cout<<f<<endl;
+    return 0;
+}
+
+Задание №8:
+Найти все множители натурального числа.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main ()
+{
+    int n,c,m=1;
+    cin>>n;
+    for (int i=0;i<n;i++)
+    {
+        c=n%m;
+        if (c==0)cout<<m<<" ";
+        m=m+1;
+    }
+    return 0;
+}
+
+Задание №9:
+С помощью печати символа '+' нарисуйте на экране треугольник заданного размера.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main ()
+{
+    int n;
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        cout<<"+";
+        for (int c=0;c<i;c++)
+            {
+                cout<<"+";
+            }
+        cout<<endl;
+    }
+    return 0;
+}
+
+Задание №10:
+С экрана вводится последовательность нулей и единиц до введения любого другого символа. Подсчитать количество единиц.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main ()
+{
+    int c=0;
+    for (char n='0'; n=='0'||n=='1';)
+    {
+        cin>>n;
+        if (n=='1') c=c+1;
+    }
+    cout<<c<<endl;
+    return 0;
+}
+
+Задание №11:
+Найти простое число с заданным номером.
+
+#include <iostream>
+#include <cmath>
+using std:: cout;
+using std:: endl;
+using std:: cin;
+int main()
+{
+    int n, d=1;
+    cin>>n;
+    bool fl = true;
+    for (int x=2; x<1000000; x++)
+    {
+        fl=true;
+        for (int i=2; i<sqrt(x)+1; i++)
+        {
+            if (x%i==0) fl=false;
+        }
+        if (fl==true) d++;
+        if (n==d)
+        {
+            cout<<x<<endl;
+            break;
+        }
+    }
+    return 0;
+}
+
+Задание №12:
+С помощью печати символа '+' нарисуйте на экране ромб заданного размера.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main ()
+{
+    int n, a=1;// a - количество плюсов
+    cin>>n; //n - обязательно нечетное
+    for (int i=0; i<((n-1)/2); i++)
+    {
+        for (int c=0; c<((n-a)/2); c++)
+        {
+            cout<<" ";
+        }
+        for (int d=0;d<a;d++)
+        {
+            cout<<"+";
+        }
+        a=a+2;
+        for (int c=0; c<((n-a)/2); c++)
+        {
+            cout<<" ";
+        }
+        cout<<endl;
+    }
+    for (int b=0; b<n; b++)
+    {
+        cout<<"+";
+    }
+    cout<<endl;
+    for (int i=0; i<((n-1)/2); i++)
+    {
+        a=a-2;
+        for (int c=0; c<((n-a)/2); c++)
+        {
+            cout<<" ";
+        }
+        for (int d=0;d<a;d++)
+        {
+            cout<<"+";
+        }
+        for (int c=0; c<((n-a)/2); c++)
+        {
+            cout<<" ";
+        }
+        cout<<endl;
+    }
+    return 0;
+}
+
+Задание №13:
+Перевести натуральное число в двоичную систему счисления.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+void binary(unsigned int c);
+void binary(unsigned int c)
+{
+    if (c>1) binary(c/2);
+    cout<<c%2;
+}
+int main()
+{
+    unsigned int c;
+    cin >> c;
+    binary(c);
+    cout << endl;
+    return 0;
+}
+Задание №14:
+-//-
+
+Задание №15:
+Вывести на экран вначале все единицы из двоичного разложения числа, введенного с клавиатуры, потом все нули.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main()
+{
+    int n, c0=0, c1=0, a=1;
+    cin>>n;
+    while (2*a<=n) a=a*2;
+    while (a>0)
+    {
+        if (n>=a)
+        {
+            c1++;
+            n=n-a;
+        }
+        else
+        {
+            c0++;
+        }
+        a=a/2;
+    }
+    for (int i=0; i<c1;i++) cout<<1;
+    for (int d=0; d<c0;d++) cout<<0;
+    return 0;
+}
+
+Задание №16:
+Считать с экрана символы до появления символа '@', подсчитывая все введенные цифры.
+
+#include <iostream>
+using std:: cout;
+using std:: endl;
+using std:: cin;
+int main()
+{
+    int d=0;
+    for (char n='a'; n!='@';)
+    {
+        cin>>n;
+        if (n=='0'||n=='1'||n=='2'||n=='3'||n=='4'||n=='5'||n=='6'||n=='7'||n=='8'||n=='9') d++;
+    }
+    cout<<d<<endl;
+    return 0;
+}
+
+Задание №17:
+Дано N цилиндров, все они разного размера и из разных материалов. Нужно определить, который из них окажется самым тяжёлым.
+Номер самого тяжёлого цилиндра. Номера начинаются с нуля.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main()
+{
+    int maxi, n;
+    float R, h, p, maxm=0;
+    cin>>n;
+    for (int i=0; i<n; i++)
+    {
+        cin >> R >> h >> p;
+        if (R*R*h*p>maxm)
+        {
+            maxm=R*R*h*p;
+            maxi=i;
+        }
+    }
+    cout<<maxi;
+    return 0;
+}
+
+Задание №18:
+Определите, сколько раз в последовательности целых чисел встречается ее максимальный элемент. Целое число n - количество элементов (не более 1000000). Набор из n целых чисел.
+
+#include <iostream>
+using std ::cout;
+using std ::endl;
+using std ::cin;
+int main()
+{
+    int n, k=0, max=-99999, d;
+    cin>>n;
+    for (int i=0; i<n; i++)
+    {
+        cin>>d;
+        if (d>max)
+        {
+            max=d;
+            k=1;
+        }
+        else if (d==max)
+        {
+            k++;
+        }
+    }
+    cout<<k<<endl;
+    return 0;
+}
+ 
+Задание №19:
+-//-
+
+Задание №20:
+-//-
