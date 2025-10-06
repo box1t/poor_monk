@@ -1,0 +1,390 @@
+PROGRAMM STARTED
+0	 PROCESS STARTED
+0	 OFFLINE2
+0	 Stay inactive
+0	 CHECK -1 2
+0	 Seek for new Global Task
+0	 See new Global Task. Try to get it
+0	 GET GLOBAL	2
+0	 More Global Tasks here! Come one next!
+0	 Valid task. Stay active
+0	 Add local 0.68665 to global 0
+0	 OFFLINE1
+0	 Stay inactive
+0	 CHECK -1 1
+0	 Seek for new Global Task
+0	 See new Global Task. Try to get it
+0	 GET GLOBAL	1
+0	 Valid task. Stay active
+1	 PROCESS STARTED
+1	 OFFLINE0
+1	 Stay inactive
+1	 CHECK -1 0
+1	 Seek for new Global Task
+0	 Start putting tasks into global stack
+0	 PUT GLOBAL0
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	20
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -7.08128e-05 to global 0.68665
+1	 OFFLINE19
+1	 Stay inactive
+1	 CHECK -1 19
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	19
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -1.27746e-05 to global 0.686579
+1	 OFFLINE18
+1	 Stay inactive
+1	 CHECK -1 18
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	18
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -3.80809e-07 to global 0.686566
+1	 OFFLINE17
+1	 Stay inactive
+1	 CHECK -1 17
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	17
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -8.76027e-08 to global 0.686566
+1	 OFFLINE16
+1	 Stay inactive
+1	 CHECK -1 16
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	16
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -1.80957e-08 to global 0.686566
+1	 OFFLINE15
+1	 Stay inactive
+1	 CHECK -1 15
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	15
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -2.62223e-09 to global 0.686566
+1	 OFFLINE14
+1	 Stay inactive
+1	 CHECK -1 14
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	14
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -2.16709e-11 to global 0.686566
+1	 OFFLINE13
+1	 Stay inactive
+1	 CHECK -1 13
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	13
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -4.56139e-12 to global 0.686566
+1	 OFFLINE12
+1	 Stay inactive
+1	 CHECK -1 12
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	12
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -7.12187e-13 to global 0.686566
+1	 OFFLINE11
+1	 Stay inactive
+1	 CHECK -1 11
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	11
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -1.54997e-14 to global 0.686566
+1	 OFFLINE10
+1	 Stay inactive
+1	 CHECK -1 10
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	10
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -1.32203e-15 to global 0.686566
+1	 OFFLINE9
+1	 Stay inactive
+1	 CHECK -1 9
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	9
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -2.78077e-16 to global 0.686566
+1	 OFFLINE8
+1	 Stay inactive
+1	 CHECK -1 8
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	8
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local -4.33047e-17 to global 0.686566
+1	 OFFLINE7
+1	 Stay inactive
+1	 CHECK -1 7
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	7
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 2.28106e-18 to global 0.686566
+1	 OFFLINE6
+1	 Stay inactive
+1	 CHECK -1 6
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	6
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 7.12388e-18 to global 0.686566
+1	 OFFLINE5
+1	 Stay inactive
+1	 CHECK -1 5
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	5
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 5.05797e-18 to global 0.686566
+1	 OFFLINE4
+1	 Stay inactive
+1	 CHECK -1 4
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	4
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 2.90297e-18 to global 0.686566
+1	 OFFLINE3
+1	 Stay inactive
+1	 CHECK -1 3
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	3
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 1.54498e-18 to global 0.686566
+1	 OFFLINE2
+1	 Stay inactive
+1	 CHECK -1 2
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	2
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 7.95641e-19 to global 0.686566
+1	 OFFLINE1
+1	 Stay inactive
+1	 CHECK -1 1
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	1
+1	 Valid task. Stay active
+1	 Add local 8.11444e-19 to global 0.686566
+1	 OFFLINE0
+1	 Stay inactive
+1	 CHECK -1 0
+1	 Seek for new Global Task
+0	 Start putting tasks into global stack
+0	 PUT GLOBAL0
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	20
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 2.44344e-05 to global 0.686566
+1	 OFFLINE19
+1	 Stay inactive
+1	 CHECK -1 19
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	19
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 4.44579e-06 to global 0.68659
+1	 OFFLINE18
+1	 Stay inactive
+1	 CHECK -1 18
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	18
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 2.56691e-07 to global 0.686595
+1	 OFFLINE17
+1	 Stay inactive
+1	 CHECK -1 17
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	17
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 7.90543e-09 to global 0.686595
+1	 OFFLINE16
+1	 Stay inactive
+1	 CHECK -1 16
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	16
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 1.93768e-09 to global 0.686595
+1	 OFFLINE15
+1	 Stay inactive
+1	 CHECK -1 15
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	15
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 4.65116e-10 to global 0.686595
+1	 OFFLINE14
+1	 Stay inactive
+1	 CHECK -1 14
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	14
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 1.06631e-10 to global 0.686595
+1	 OFFLINE13
+1	 Stay inactive
+1	 CHECK -1 13
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	13
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 2.18346e-11 to global 0.686595
+1	 OFFLINE12
+1	 Stay inactive
+1	 CHECK -1 12
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	12
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 3.04713e-12 to global 0.686595
+1	 OFFLINE11
+1	 Stay inactive
+1	 CHECK -1 11
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	11
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 1.06802e-14 to global 0.686595
+1	 OFFLINE10
+1	 Stay inactive
+1	 CHECK -1 10
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	10
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 3.41868e-15 to global 0.686595
+1	 OFFLINE9
+1	 Stay inactive
+1	 CHECK -1 9
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	9
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 1.22898e-15 to global 0.686595
+1	 OFFLINE8
+1	 Stay inactive
+1	 CHECK -1 8
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	8
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 4.94403e-16 to global 0.686595
+1	 OFFLINE7
+1	 Stay inactive
+1	 CHECK -1 7
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	7
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 2.17179e-16 to global 0.686595
+1	 OFFLINE6
+1	 Stay inactive
+1	 CHECK -1 6
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	6
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 1.01084e-16 to global 0.686595
+1	 OFFLINE5
+1	 Stay inactive
+1	 CHECK -1 5
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	5
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 4.86674e-17 to global 0.686595
+1	 OFFLINE4
+1	 Stay inactive
+1	 CHECK -1 4
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	4
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 2.38646e-17 to global 0.686595
+1	 OFFLINE3
+1	 Stay inactive
+1	 CHECK -1 3
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	3
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 1.1815e-17 to global 0.686595
+1	 OFFLINE2
+1	 Stay inactive
+1	 CHECK -1 2
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	2
+1	 More Global Tasks here! Come one next!
+1	 Valid task. Stay active
+1	 Add local 5.87654e-18 to global 0.686595
+1	 OFFLINE1
+1	 Stay inactive
+1	 CHECK -1 1
+1	 Seek for new Global Task
+1	 See new Global Task. Try to get it
+1	 GET GLOBAL	1
+1	 Valid task. Stay active
+1	 Add local 5.85864e-18 to global 0.686595
+1	 OFFLINE0
+1	 Stay inactive
+1	 CHECK -1 0
+1	 Seek for new Global Task
+0	 Add local 1.68371 to global 0.686595
+0	 OFFLINE0
+0	 Stay inactive
+0	 CHECK -2 0
+0	 Seek for new Global Task

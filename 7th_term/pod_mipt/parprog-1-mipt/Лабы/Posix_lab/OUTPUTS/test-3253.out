@@ -1,0 +1,17 @@
+PROGRAMM STARTED
+0	 PROCESS STARTED
+0	 Seek for new Global Task
+0	 See new Global Task. Try to get it
+0	 GET GLOBAL
+0	 Valid task. Stay active
+0	 Add local 2.37031 to global 0
+0	 OFFLINE
+0	 Stay inactive
+0	 Put termination tasks in global stack
+0	 Seek for new Global Task
+0	 See new Global Task. Try to get it
+0	 GET GLOBAL
+0	 TERMINATED
+2.370306763960332
+2.370309128281380
+0.000002364321048
