@@ -16,7 +16,8 @@ int main() {
             }
         }
         else {
-                printf("incorrect");
+            float result = (-c) / b;
+            printf("%.6f", result);
         }
     }
     else {

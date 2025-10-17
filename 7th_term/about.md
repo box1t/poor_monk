@@ -1,8 +1,11 @@
 
 7 сем
-- матмод
-    - пререквизиты: урматфиз, анал механика, твимс численно, функан численно, числаки.
 - числаки
 - инфопоиск
-    - переквизит: мл, твимс, дискран КП.
 
+
+gpg --sign -u nick.seriy@yandex.ru code.cpp
+
+gpg --clearsign -u nick.seriy@yandex.ru code.cpp
+
+gpg -u "59352C17" -ab code.cpp

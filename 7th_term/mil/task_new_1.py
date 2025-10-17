@@ -8,6 +8,10 @@
   λ_i        = Δn[i] / (n_start[i] * Δt)
   f_i        = Δn[i] / (N0 * Δt)
   P(t_end_i) = n_end[i] / N0,   Q = 1 - P
+  
+  T_cp_1 (до отказа всех объектов): T_cp = 1/n * Сумма(t_pi)
+  T_cp_2 (из N0 отказало только n): T_cp = 1/n * [ Сумма(t_pi) + T * (N0 - n) ] = W_общ / n
+  
 Сохраняет CSV и PNG-графики в текущую папку.
 """
 
@@ -19,6 +23,7 @@ import pathlib
 from typing import List, Tuple
 
 import matplotlib.pyplot as plt
+
 
 @dataclass
 class Interval:
@@ -41,11 +46,16 @@ def make_intervals() -> List[Interval]:
     return ints
 
 def compute(N: int, N0: int, dt: int) -> Tuple[list, list]:
-    """Возвращает список строк-результатов и накопительные величины."""
+    """
+    Возвращает список строк-результатов и накопительные величины:
+    [общее_число_отказов, число_выживших_в_конце, общая_наработка_W_общ, W_отказавших].
+    """
     intervals = make_intervals()
     rows = []
     n_start = N0
     cum_fail = 0
+    total_working_hours = 0.0      # Общая наработка всех объектов (W_общ)
+    failed_working_hours = 0.0     # Сумма наработок только отказавших объектов (Сумма t_pi)
 
     for k, iv in enumerate(intervals, start=1):
         dn = iv.base_dn + N
@@ -53,11 +63,19 @@ def compute(N: int, N0: int, dt: int) -> Tuple[list, list]:
         if n_end < 0:
             raise ValueError(f"На интервале {iv.t_start}-{iv.t_end} число выживших стало отрицательным."
                              f" Проверьте параметры (N0={N0}, N={N}).")
+        
+        # Общая наработка на текущем интервале: n_start * dt
+        total_working_hours += n_start * dt
+        
+        # Наработка отказавших объектов: dn * (t_start + dt/2) - (среднее по интервалу)
+        # В интервальном анализе, каждый отказавший объект наработал t_mid
+        t_mid = 0.5 * (iv.t_start + iv.t_end)
+        failed_working_hours += dn * t_mid
+        
         lam = dn / (n_start * dt)        # интенсивность отказов на интервале
         freq = dn / (N0 * dt)            # частота отказов
         P = n_end / N0                   # вероятность безотказной работы (к концу интервала)
         Q = 1.0 - P
-        t_mid = 0.5 * (iv.t_start + iv.t_end)
 
         rows.append({
             "k": k,
@@ -78,7 +96,8 @@ def compute(N: int, N0: int, dt: int) -> Tuple[list, list]:
         n_start = n_end
         cum_fail += dn
 
-    return rows, [cum_fail, n_start]
+    return rows, [cum_fail, n_start, total_working_hours, failed_working_hours]
+
 
 def save_csv(rows: list, path: pathlib.Path):
     fieldnames = ["k", "t_start", "t_end", "t_mid", "Δt", "Δn",
@@ -89,9 +108,9 @@ def save_csv(rows: list, path: pathlib.Path):
         for r in rows:
             writer.writerow(r)
 
+
 def plot_all(rows: list, stem: pathlib.Path):
-    """Рисует 4 графика: λ(t), f(t) (как гистограммы), P(t), Q(t) (сглаженные), а также совместный график P(t) и Q(t).
-       На совместный график P(t) и Q(t) добавлены прозрачные столбцы."""
+    """Рисует 4 графика: λ(t), f(t) (как гистограммы), P(t), Q(t) (сглаженные), а также совместный график P(t) и Q(t)."""
     t_start = [r["t_start"] for r in rows]
     t_mid = [r["t_mid"] for r in rows]
     t_end = [r["t_end"] for r in rows]
@@ -126,11 +145,14 @@ def plot_all(rows: list, stem: pathlib.Path):
     plt.tight_layout()
     plt.savefig(stem.with_name(stem.name + "_freq_hist.png"))
     
+    # Совместный график P(t) и Q(t)
     plt.figure()
 
+    # Добавляем прозрачные столбцы (как было в предыдущем варианте)
     plt.bar(t_start, P, width=dt, align='edge', color='lightblue', alpha=0.3, label='P(t) (интервалы)')
     plt.bar(t_start, Q, width=dt, align='edge', color='lightsalmon', alpha=0.3, label='Q(t) (интервалы)')
 
+    # Затем рисуем линии поверх столбцов
     plt.plot(t_full, P_full, linestyle='-', label='P(t) - Кривая надежности', color='blue')
     plt.plot(t_full, Q_full, linestyle='-', label='Q(t) - Функция распределения наработки до отказа', color='orange')
     
@@ -142,41 +164,71 @@ def plot_all(rows: list, stem: pathlib.Path):
     # Поиск точки пересечения (где P(t) ≈ Q(t) ≈ 0.5) с помощью линейной интерполяции
     cross_k = -1
     for k in range(len(P_full) - 1):
-        # Ищем интервал, где P(t) пересекает 0.5
         if P_full[k] >= 0.5 and P_full[k+1] < 0.5:
             cross_k = k
             break
 
     if cross_k != -1:
-        # Линейная интерполяция для нахождения t при P(t) = 0.5
         t1, t2 = t_full[cross_k], t_full[cross_k+1]
         P1, P2 = P_full[cross_k], P_full[cross_k+1]
         
-        t_cross = t1 # Значение по умолчанию
+        t_cross = t1 
         if (P2 - P1) != 0:
             t_cross = t1 + (0.5 - P1) * (t2 - t1) / (P2 - P1)
 
-        # Определение вертикальной линии и точки
         if 0 <= t_cross <= t_full[-1]:
-            # Вертикальная линия в точке пересечения (медианная наработка)
             plt.axvline(x=t_cross, color='r', linestyle=':', linewidth=1.5, 
                         label=f'$T_{{0.5}}$ (Медианная наработка) $\\approx {t_cross:.2f}$ ч')
-            # Точка пересечения
             plt.plot(t_cross, 0.5, 'ro', markersize=6)
-            # Текст с координатой
             plt.text(t_cross + 50, 0.55, f'({t_cross:.0f}, 0.5)', 
                      color='r', verticalalignment='bottom')
                      
-    # Горизонтальная линия P=0.5 для наглядности
     plt.axhline(y=0.5, color='gray', linestyle='--', linewidth=0.5)
-
 
     plt.legend()
     plt.tight_layout()
     plt.savefig(stem.with_name(stem.name + "_P_Q_cross_with_bars.png"))
 
-    # показать на экране (можно закомментировать в headless-средах)
-    plt.show()
+    # УДАЛЕНО: plt.show() - для предотвращения зависания
+
+def calculate_T_cp_variants(N0: int, n: int, W_obj: float, W_fail: float, T_end: int) -> str:
+    """
+    Рассчитывает и форматирует вывод средней наработки до отказа по двум предположениям.
+    W_obj - общая наработка (W_общ)
+    W_fail - сумма наработок отказавших объектов (Сумма t_pi)
+    """
+    if n == 0:
+        return "\nНевозможно рассчитать среднюю наработку: нет отказов (n=0)."
+
+    # --- Предположение 1: Учитываются только отказавшие образцы ---
+    # T_cp_1 = (Сумма t_pi) / n
+    T_cp_1 = W_fail / N0
+    
+    # --- Предположение 2: Учитываются все образцы (Формула 5) ---
+    # T_cp_2 = W_общ / n
+    T_cp_2 = W_obj / n
+    
+    W_survivors = T_end * (N0 - n)
+
+    output = f"""
+--- Расчет средней наработки до отказа (T_cp) ---
+Общие данные:
+  T_общ (T_end) = {T_end} ч
+  N_0 (начальное число объектов) = {N0}
+  n (число отказавших объектов) = {n}
+  W_общ (общая наработка всех объектов) = {W_obj:.0f} ч
+  W_отказавших (Сумма t_pi) = {W_fail:.0f} ч
+  W_выживших (наработка выживших объектов) = {W_survivors:.0f} ч ({N0 - n} объектов)
+
+1. Испытание: до отказа всех объектов.
+   Формула: T_cp_1 = Сумма(t_pi) / n
+   T_cp_1 = {W_fail:.0f} / {N0} = {T_cp_1:.2f} ч
+
+2. Испытание: из N0 отказало только n.
+   Формула: T_cp_2 = 1/n * [ Сумма(t_pi) + T * (N0 - n) ] = W_общ / n
+   T_cp_2 = {W_obj:.0f} / {n} = {T_cp_2:.2f} ч
+"""
+    return output
 
 
 def main():
@@ -188,20 +240,35 @@ def main():
                     help="префикс имени выходных файлов (без расширения)")
     args = ap.parse_args()
 
-    rows, (cum_fail, survivors_last) = compute(args.N, args.N0, args.dt)
+    # T_end - общее время испытаний (последний t_end)
+    intervals = make_intervals()
+    T_end = intervals[-1].t_end
+    
+    # total_working_hours (W_общ) и failed_working_hours (W_отказавших) добавлены в возвращаемое значение
+    rows, results = compute(args.N, args.N0, args.dt)
+    cum_fail, survivors_last, total_working_hours, failed_working_hours = results
 
-    print(f"Всего отказов: {cum_fail}  |  Выжило к 3000 ч: {survivors_last} "
+    # Расчет T_cp по обоим предположениям
+    T_cp_details = calculate_T_cp_variants(args.N0, cum_fail, total_working_hours, failed_working_hours, T_end)
+
+    # Итог в консоль
+    print("=" * 60)
+    print("ИТОГОВЫЕ ПОКАЗАТЕЛИ НАДЕЖНОСТИ")
+    print("=" * 60)
+    print(f"Всего отказов: {cum_fail}  |  Выжило к {T_end} ч: {survivors_last} "
           f"({survivors_last/args.N0:.4f} из N0)")
+    print("-" * 60)
+    print(T_cp_details)
+    print("=" * 60)
 
+    # CSV и графики
     csv_path = args.out.with_suffix(".csv")
     save_csv(rows, csv_path)
     print(f"CSV сохранён: {csv_path}")
 
     plot_all(rows, args.out)
-    print("Графики сохранены с суффиксами: _lambda.png, _freq.png, _P.png, _Q.png")
+    print("Графики сохранены с суффиксами: _lambda_hist.png, _freq_hist.png, _P_Q_cross_with_bars.png (и другие)")
 
 
 if __name__ == "__main__":
     main()
-
-#python3 main.py --N 8 --N0 2000 --dt 100 --out variant8
