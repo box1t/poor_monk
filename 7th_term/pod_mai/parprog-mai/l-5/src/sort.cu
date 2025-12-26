@@ -40,6 +40,7 @@ __global__ void scan_kernel(const int* histogram, int* scan) {
   __syncthreads();
 
   int offset = 1;
+  // какое ускорение благодаря такой схеме?
   for (int d = k_alphabet_size >> 1; d > 0; d >>= 1) {
     __syncthreads();
     if (threadIdx.x < d) {
@@ -52,6 +53,7 @@ __global__ void scan_kernel(const int* histogram, int* scan) {
 
   if (threadIdx.x == 0) temp[k_alphabet_size - 1] = 0;
 
+  // редукция № 2: чередующая адресация с шаговым индексом и нерасходящейся ветвью
   for (int d = 1; d < k_alphabet_size; d *= 2) {
     offset >>= 1;
     __syncthreads();
