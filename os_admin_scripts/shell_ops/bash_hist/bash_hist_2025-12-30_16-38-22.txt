@@ -1,0 +1,2000 @@
+venv
+env
+env numerical
+source /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+clear
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+/usr/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/contest_28.09/cont.py
+source .venv/bin/activate
+/usr/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/contest_28.09/cont.py
+clear
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+clear
+./test
+clear
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+g++ -o code code.cpp
+./code
+clear
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+clear
+g++ -o test test.cpp
+./test
+g++ -o test test.cpp
+./test
+/usr/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+source env/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
+source /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/activate
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+source /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/activate
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+ckear
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/stepik/2.2.py
+clear
+cleR
+clear
+source /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/activate
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/py.py
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python
+clear
+if a <= b:;     if b <= c:;         print(b)
+else:
+clear
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/py.py
+if string == "+":;     num_1 += num_2; elif string == "-"or string == "-" or string == "*" or string == "/":
+else:
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/1st_term/py.py
+source /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/5_contest_12.10_icpc/b.py
+clear
+ls
+cd 5_contest_12.10_icpc/
+g++ -o c c.cpp
+./c
+g++ -o c c.cpp
+./c
+g++ -o c another_c.cpp 
+./c
+g++ -o c another_c.cpp 
+./c
+g++ -o c another_c.cpp 
+./c
+g++ -o c another_c.cpp 
+./c
+g++ -o c another_c.cpp 
+./c
+g++ -o c another_c.cpp 
+./c
+g++ -o c another_c.cpp 
+./c
+g++ -o c another_c.cpp 
+g++ -o c_c.cpp 
+g++ -o c c.cpp 
+./c
+g++ -o c c.cpp 
+./c
+g++ -o c c.cpp 
+./c
+g++ -o c c.cpp 
+./c
+g++ -o c c.cpp 
+./c
+g++ -o c c.cpp 
+./c
+g++ -o c c.cpp 
+./c
+14.0
+12.5
+10.5
+9.0
+7.5
+6.0
+4.5
+3.0
+2.0
+1.5
+1.0
+g++ -o c c.cpp 
+./c
+14.0
+12.5
+10.5
+9.0
+7.5
+6.0
+4.5
+3.0
+2.0
+1.5
+g++ -o c c.cpp
+./c
+14.0
+12.5
+10.5
+9.0
+7.5
+source /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/olymprog/5_contest_12.10_icpc/d.py
+clear
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_1.py
+clear
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_1.py
+clear
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_1.py
+clear
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_1.py
+clear
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_1.py
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_new_1.py
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_new_2.py
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_2.py
+/bin/python3 /home/snowwy/snap/MAI/lab_repos/monk_coder/poor_monk/poor_monk/7th_term/mil/task_2_new.py
+clear
+latexmk -xelatex main.tex
+sudo apt install latexmk
+latexmk -xelatex main.tex
+ls
+cd example/
+latexmk -xelatex main.tex
+sudo apt update
+sudo apt install texlive-full
+sudo apt update
+sudo apt install texlive-xetex
+latexmk -xelatex slides.tex
+latexmk -c
+latexmk -xelatex slides.tex
+latexmk -c
+pdflatex
+pdflatex slides.tex
+clear
+pdflatex slides.tex
+sudo apt install texlive-lang-cyrillic
+pdflatex slides.tex
+clear
+pdflatex slides.tex
+pdflatex -c
+latexmk -c
+latexmk -xelatex main.tex
+latexmk -c
+pdflatex slides.tex
+latexmk -c
+clear
+latexmk -xelatex main.tex
+ды
+ls
+cd ..
+ls
+cd diploma-latex-template-main/
+ls
+cd example/
+ls
+latexmk -xelatex main.tex
+ls
+latexmk -xelatex main.tex
+ls
+latexmk -xelatex main.tex
+sudo apt install texlive-bibtex-extra
+latexmk -xelatex main.tex
+latexmk -c
+latexmk -xelatex main.tex
+latexmk -c
+clear
+ls
+g++ -o code code.cpp
+./code
+gpg --sign
+gpg --sign code.cpp
+gpg --sign nick.seriy@yandex.ru code.cpp
+gpg --sign -u nick.seriy@yandex.ru code.cpp
+gpg --clearsign -u nick.seriy@yandex.ru code.cpp
+gpg --list-secret-keys --keyid-format=short
+gpg --import-options show-only --import code.cpp.asc
+gpg -u FBB0596A43E051417D0E2427D49846C959352C17 -ab code.cpp
+gpg --import-options show-only --import code.cpp.asc
+gpg --verify code.cpp.asc
+gpg -a --export nick.seriy@yandex.ru > surname-name.asc
+gpg --import-options show-only --import surname-name.asc
+uchardet surname-name.asc
+file -i surname-name.asc
+gpg -u "59352C17" -ab code.cpp
+cat code.cpp.asc
+gpg --verify code.cpp.asc
+gpg -a --export "59352C17" > seryy-nikita.asc
+gpg --verify code.cpp.asc
+ls
+gpg -u "59352C17" -ab code.cpp
+g++ -o code code.cpp
+./code
+cd ..
+cd hw-2
+g++ -o code code.cpp
+./code
+g++ -o code code.cpp
+./code
+g++ -o code code.cpp
+./code
+g++ -o code code.cpp
+./code
+clear
+./code
+clear
+gpg -u "59352C17" -ab code.cpp
+gpg -u "59352C17" -ab array.cu
+ls
+cd ..
+cd l-1
+gpg -u "59352C17" -ab code.cpp
+gpg -u "59352C17" -ab array.cu
+find cursor
+grep cursor
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+clear
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+clear
+Browse Lite
+clear
+chmod +x obsidian
+desktop
+sudo apt uninstall telegram-desktop
+sudo apt remove telegram-desktop
+sudo snap remove telegram-desktop
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+m, p, n = int(input()), int(input()), int(input())
+pop_size = float(m)
+for i in range(n):
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+dclear
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+Dah
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+Dah
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clea
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1st_term/py.py
+clear
+ls
+cd diploma-slides-latex-template-main/
+pdflatex slides.tex
+latexmk -c
+pdflatex slides.tex
+latexmk -c
+clear
+chmod +x obsidian
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/8_contest_26.10/a.py
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/8_contest_26.10/b.py
+clear
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/8_contest_26.10/d.py
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/8_contest_26.10/d_help.py
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/8_contest_26.10/d.py
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/8_contest_26.10/d.py
+clear
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+sudo snap uninstall telegram-desktop
+sudo apt-uninstall telegram-desktop
+sudo apt uninstall telegram-desktop
+sudo apt uninstal telegram-desktop
+sudo apt remove telegram-desktop
+sudo snap remove telegram-desktop
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+ckear
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+/usr/bin/python3
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+c;ear
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+n = int(input())
+num_1 = int(input())
+num_2 = int(input())
+if n < 2:;     exit(0)
+current = 0
+if num_1 > num_2:;     first_largest = num_1;     second_largest = num_2; else:;     second_largest = num_1;     first_largest = num_2; for i in range(2, n+1):
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+sudo apt install telegram-desktop
+sudo snap remove telegram-desktop
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parabolic.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/visual.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/visual.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/tridiag.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+pip install natsort
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+d
+sudo snap install telegram-desktop
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/visual.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+сдуфк
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/9_contest_09.11/h.py
+clear
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/9_contest_09.11/h.py
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/9_contest_09.11/h.py
+clear
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/9_contest_09.11/h.py
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+eraclear
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+sudo apt install gimp
+sudo dpkg --add-architecture i386
+sudo dpkg –add-architecture i386
+sudo mkdir -pm755 /etc/apt/keyrings
+sudo wget -0 /etc/apt/keyrings/winehqarchive.key https://dl.winehq.org/winebuilds/winehq.key
+sudo wget -NP  /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/focal/winehq-focal.sources
+sudo apt update
+sudo apt install –install reccomends winehq-stable
+sudo dpkg –add-architecture i386
+sudo mkdir -pm755 /etc/apt/keyrings
+sudo wget -0 /etc/apt/keyrings/winehqarchive.key https://dl.winehq.org/winebuilds/winehq.key
+sudo wget -NP  /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/focal/winehq-focal.sources
+sudo apt update
+clear
+sudo dpkg --add-architecture i386
+sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/focal/winehq-focal.sources
+sudo apt update
+sudo dpkg --add-architecture i386
+sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/focal/winehq-focal.sources
+cat /etc/os-release
+sudo mkdir -pm755 /etc/apt/keyrings
+wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo gpg --dearmor -o /etc/apt/keyrings/winehq-archive.key -
+sudo apt install --install-recommends winehq-stable
+wine program.exe
+sudo dpkg --add-architecture i386
+sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/questing/winehq-questing.sources
+cat /etc/os-release
+sudo dpkg --add-architecture i386  
+wget -nc https://dl.winehq.org/winebuilds/winehq.key  
+sudo apt-key add winehq.key  
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'  
+sudo apt update  
+sudo apt install --install-recommends winehq-stable  
+sudo rm /etc/apt/sources.list.d/archive_uri-https_dl_winehq_org_wine-builds_ubuntu_-jammy.list
+sudo rm /etc/apt/sources.list.d/winehq-focal.sources
+sudo rm /etc/apt/sources.list.d/*wine*.list 2>/dev/null
+sudo rm /etc/apt/sources.list.d/*wine*.sources 2>/dev/null
+sudo dpkg --add-architecture i386
+wget https://dl.winehq.org/wine-builds/winehq.key
+sudo mv winehq.key /etc/apt/keyrings/winehq.key
+echo "deb [signed-by=/etc/apt/keyrings/winehq.key] https://dl.winehq.org/wine-builds/ubuntu/ jammy main" | sudo tee /etc/apt/sources.list.d/winehq-jammy.sources
+sudo apt update
+sudo apt install --install-recommends winehq-stable
+sudo rm /etc/apt/sources.list.d/winehq-jammy.sources
+echo "deb [signed-by=/etc/apt/keyrings/winehq.key] https://dl.winehq.org/wine-builds/ubuntu/ jammy main" | sudo tee /etc/apt/sources.list.d/winehq-jammy.list
+sudo apt update
+sudo apt install --install-recommends winehq-stable
+clear
+wine --version
+wine-9.x (stable)
+winecfg
+sudo apt install winetricks
+winetricks vcrun2015 vcrun2017 corefonts
+winetricks vcrun2015 atmlib corefonts
+sudo apt install winetricks
+winetricks vcrun2015 vcrun2017 corefonts
+rm -rf ~/.wine
+rm -rf ~/.cache/winetricks
+winecfg
+sudo apt install winetricks
+winetricks vcrun2015 vcrun2017 corefonts
+echo $WINEPREFIX
+ls ~/.wine
+rm -rf ~/.wine
+rm -rf ~/.cache/winetricks
+export WINEARCH=win64
+export WINEPREFIX=$HOME/.wine
+winecfg
+export WINEARCH=win64
+export WINEPREFIX=$HOME/.wine
+export WINEARCH=win64
+export WINEPREFIX=$HOME/.wine
+winetricks -q vcrun2015 vcrun2017 corefonts
+ls -l ~/.wine/drive_c/windows/system32 | grep ucrt
+export WINEARCH=win64
+export WINEPREFIX=$HOME/.wine
+winetricks -q vcrun2015
+cat ~/.wine/drive_c/windows/system32/winevcrun2015.log 2>/dev/null
+echo $WINEPREFIX
+cat ~/.wine/drive_c/windows/system32/winevcrun2015.log 2>/dev/null
+echo $WINEPREFIX
+wine uninstaller
+winetricks list-installed
+clear
+sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+sudo apt update
+sudo apt install acroread
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wine64 wine32
+Y
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wine64 wine32
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wine64 wine32
+sudo apt install playonlinux
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wine64 wine32 winetricks
+wine --version
+wine --version
+mkdir ~/wine-photoshop
+export WINEPREFIX=~/wine-photoshop
+wineboot --init
+winetricks corefonts vcrun2019
+sudo apt install playonlinux
+clear
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt upgrade -y
+sudo apt install wine64 wine32 winetricks -y
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt upgrade -y
+sudo apt install wine64 wine32 winetricks -y
+wine --version
+winetricks corefonts vcrun2019 atmlib gdiplus
+сдуфк
+clear
+sudo apt update
+sudo apt install virtualbox virtualbox-ext-pack -y
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+cear
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+/bin/python3
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+sudo apt update
+sudo apt install virtualbox virtualbox-ext-pack
+sudo apt update
+sudo apt install wget gnupg2
+wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+echo "deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib" |   sudo tee /etc/apt/sources.list.d/virtualbox.list
+sudo apt update
+sudo apt install virtualbox-7.0
+1
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+sudo apt update
+sudo apt install wget gnupg2
+wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+echo "deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib" |   sudo tee /etc/apt/sources.list.d/virtualbox.list
+sudo apt update
+sudo apt install virtualbox-7.0
+sudo apt install wget gnupg2
+wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+echo "deb [arch=amd64] https://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib" |   sudo tee /etc/apt/sources.list.d/virtualbox.list
+sudo apt update
+sudo apt install virtualbox-7.0
+sudo dpkg --configure -a
+sudo apt --fix-broken install
+sudo apt update
+sudo apt upgrade -y
+sudo apt install virtualbox-7.0
+VBoxManage createvm   --name "Win11"   --ostype "Windows11_64"   --register
+VBoxManage modifyvm "Win11" --memory 8192 --vram 128 --cpus 4
+sudo /sbin/vboxconfig
+sudo apt install build-essential linux-headers-$(uname -r)
+sudo /sbin/vboxconfig
+sudo apt update
+sudo apt full-upgrade
+sudo reboot
+sudo /sbin/vboxconfig
+sudo apt update
+sudo apt full-upgrade
+sudo reboot
+sudo apt install build-essential dkms linux-headers-$(uname -r)
+sudo /sbin/vboxconfig
+sudo openssl req -new -x509 -newkey rsa:2048 -keyout MOK.priv -out MOK.der -nodes -days 36500 -subj "/CN=VirtualBox/"
+sudo mokutil --import MOK.der
+rm -f MOK.der MOK.priv
+openssl req -new -x509 -newkey rsa:2048 -nodes -outform DER -keyout MOK.priv -out MOK.der -days 36500 -subj "/CN=VirtualBox/"
+ls -lh MOK.*
+-rw------- MOK.priv
+-rw-r--r-- MOK.der
+sudo mokutil --import MOK.der
+KVER=$(uname -r)
+sudo /usr/src/linux-headers-$KVER/scripts/sign-file sha256 MOK.priv MOK.der /lib/modules/$KVER/misc/vboxdrv.ko
+sudo /usr/src/linux-headers-$KVER/scripts/sign-file sha256 MOK.priv MOK.der /lib/modules/$KVER/misc/vboxnetflt.ko
+sudo /usr/src/linux-headers-$KVER/scripts/sign-file sha256 MOK.priv MOK.der /lib/modules/$KVER/misc/vboxnetadp.ko
+sudo modprobe vboxdrv
+sudo modprobe vboxnetflt
+sudo modprobe vboxnetadp
+dmesg | tail -50
+KVER=$(uname -r)
+sudo /usr/src/linux-headers-$KVER/scripts/sign-file sha256 MOK.priv MOK.der /lib/modules/$KVER/misc/vboxdrv.ko
+sudo /usr/src/linux-headers-$KVER/scripts/sign-file sha256 MOK.priv MOK.der /lib/modules/$KVER/misc/vboxnetflt.ko
+sudo /usr/src/linux-headers-$KVER/scripts.sign-file sha256 MOK.priv MOK.der /lib/modules/$KVER/misc/vboxnetadp.ko
+sudo modprobe vboxdrv
+sudo modprobe vboxnetflt
+sudo modprobe vboxnetadp
+mokutil --sb-state
+mokutil --list-enrolled
+dmesg | grep -i 'module signature'
+sudo dmesg | grep -i 'module signature'
+sudo dmesg | grep -iE 'vbox|signature|secure'
+modinfo vboxdrv | grep -i signer
+modinfo vboxdrv | grep filename
+ls -lh MOK.*
+KVER=$(uname -r)
+MODS=/lib/modules/$KVER/misc
+KEY=MOK.priv
+CERT=MOK.der
+SIGN=/usr/src/linux-headers-$KVER/scripts/sign-file
+echo "Signing VirtualBox modules..."
+for m in vboxdrv vboxnetflt vboxnetadp; do     sudo $SIGN sha256 $KEY $CERT $MODS/$m.ko; done
+echo "Checking signatures:"
+modinfo vboxdrv | grep -i signer
+modinfo vboxnetflt | grep -i signer
+modinfo vboxnetadp | grep -i signer
+find /lib/modules/$(uname -r) -name "vbox*.ko" -ls
+sudo mokutil --import MOK.der
+find /lib/modules/$(uname -r) -name "vbox*.ko" -ls
+/lib/modules/$(uname -r)/updates/dkms/
+MODS=/lib/modules/$(uname -r)/updates/dkms
+KVER=$(uname -r)
+SIGN=/usr/src/linux-headers-$KVER/scripts/sign-file
+KEY=MOK.priv
+CERT=MOK.der
+MODS=/lib/modules/$KVER/updates/dkms
+for m in vboxdrv vboxnetflt vboxnetadp; do     sudo $SIGN sha256 $KEY $CERT $MODS/$m.ko; done
+sudo mokutil --import MOK.der
+modinfo vboxdrv | grep -i signer
+sudo dkms remove virtualbox/7.0.18 --all
+sudo dkms install virtualbox/7.0.18 --no-autoinstall
+sudo dkms remove virtualbox/7.0.18 --all
+sudo dkms install virtualbox/7.0.18 --no-autoinstall
+modinfo vboxdrv | grep -i signer
+find /lib/modules/$(uname -r) -name "vbox*.ko" -ls
+sudo /sbin/vboxconfig
+sudo apt update
+sudo apt install build-essential linux-headers-$(uname -r) dkms
+sudo apt --reinstall install virtualbox-dkms
+clear
+sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virt-manager -y
+sudo adduser boxi libvirt
+sudo adduser boxi kvm
+sudo adduser snowwy libvirt
+sudo adduser snowwy kvm
+virt-manager
+clear
+git clone https://github.com/Gictorbit/photoshopCClinux.git
+cd photoshopCClinux
+chmod +x setup.sh
+./setup.sh
+rm /home/snowwy/.cache/winetricks/vcrun2008/vcredist_x86.exe
+ls
+./setup.sh
+clear
+chmod +x winecfg.sh
+./winecfg.sh
+chmod +x setup.sh
+./setup.sh
+clear
+sudo /sbin/vboxconfig
+/sbin/vboxconfig
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+sudo apt purge virtualbox*
+sudo apt purge playonlinux
+sudo apt purge imagemagick
+sudo apt purge virt-manager
+sudo apt purge qemu-kvm libvirt-daemon-system
+sudo apt purge wine*
+sudo apt autoremove
+# Удаление виртуальной среды Wine
+rm -rf ~/.wine
+# Удаление папки PlayOnLinux
+rm -rf ~/.PlayOnLinux
+# Удаление настроек Oracle VirtualBox
+rm -rf ~/.config/VirtualBox/
+# Удаление папки с виртуальными машинами VirtualBox (если она не была перемещена)
+rm -rf ~/VirtualBox\ VMs/
+rm -rf ~/.cache/virtualbox
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+spis = []
+for i in range(n):
+q_search = input().lower()
+for line in spis:;     if q_search in line:
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/1_py.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/bin/python3
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/visual.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/tridiag.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/tridiag.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python
+clear
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+1 0
+1 10
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+2 2 7 6
+3 1
+3 10
+2 1
+1 1
+2 4
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+2 2 7 6
+3 1
+3 10
+2 1
+1 1
+2 4
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+2 2 7 6
+3 1
+3 10
+2 1
+1 1
+2 4
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+3 4
+-1
+-2
+3
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+-1
+-2
+3
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+-2
+3
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+-2
+3
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+pos_list = list(map(int, input().split()))
+for a in pos_list:;     if a == 0:
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+-2
+3
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+-2
+3
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+6
+4
+-1
+5
+7
+6
+5
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/olymprog/11_contest_23.11/b.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/plots.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/visual.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/new_17.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/new_17.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/6.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/new_17.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/stole.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/stole.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/hyperb_pde.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/matrix_solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/hyperb_pde.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/plots.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/matrix_solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/visual.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+ls
+chmod +x obsidian
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+sudo apt remove --purge appimagelauncher -y
+ls
+l
+ls
+cd ..
+ls
+cd snowwy/
+ls
+clear
+pdflatex slides.tex
+clear
+ls
+cd ./diploma-slides-latex-template-main/
+pdflatex slides.tex
+cd ./diploma-slides-latex-template-main/
+pdflatex slides.tex
+clear
+pdflatex slides.tex
+clear
+pdflatex slides.tex
+latexmk -c
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+pdflatex slides.tex
+ls
+cd ./diploma-slides-latex-template-main/ 
+pdflatex slides.tex
+latexmk -c
+pdflatex slides.tex
+clear
+latexmk -c
+pdflatex slides.tex
+latexmk -c
+pdflatex slides.tex
+clear
+pdflatex slides.tex
+clear
+latexmk -c
+pdflatex slides.tex
+latexmk -c
+pdflatex slides.tex
+latexmk -c
+pdflatex slides.tex
+latexmk -c
+clear 
+latexmk -c
+pdflatex slides.tex
+latexmk -c
+pdflatex slides.tex
+clear
+latexmk -c
+pdflatex slides.tex
+clear
+latexmk -c
+pdflatex slides.tex
+clear
+latexmk -c
+git rebase 1.12.2025 16:22:43
+GIT_COMMITTER_DATE="2025-12-1 16:22:43" git commit --amend --no-edit --date="2025-12-1 16:22:43"
+git log --oneline
+git status
+ды
+ls
+cd ./numerical_methods/
+ls
+GIT_COMMITTER_DATE="2025-12-1 16:22:43" git commit --amend --no-edit --date="2025-12-1 16:22:43"
+git status
+git log --oneline --decorate -2
+git reset --hard origin/main
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+clear
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/ai_course/.venv/bin/activate
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_6/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/pypy.py
+clear
+g++ -o main main.cpp
+./main
+clear
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+clear
+g++ -o main main.cpp
+./main
+clear
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+clear
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+clear
+g++ -o main main.cpp
+./main
+clear
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+clear
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+g++ -o main main.cpp
+./main
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/tridiag.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+clear
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_5/src/parab_pde.py
+ls
+cd ./7th_term/pod_mai/
+ls
+cd ./parprog-mai/
+ls
+cd ./kp/
+ls
+nvcc main.cu -lGL - lGLU - lglut -lGLEW
+sudo apt install nvidia-cuda-toolkit
+clear
+nvcc main.cu -lGL - lGLU - lglut -lGLEW
+nvcc main.cu -lGL - lGLU - lglut -lGLEW __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./a.out
+nvcc main.cu -lGL - lGLU - lglut -lGLEW
+nvcc main.cu -lGL -lGLU -lglut -lGLEW
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./a.out
+nvcc main.cu -lGL -lGLU -lglut -lGLEW
+sudo apt update
+sudo apt install build-essential
+g++ --version
+nvcc -ccbin g++ main.cu -lGL -lGLU -lglut -lGLEW
+nvcc main.cu -lGL -lGLU -lglut -lGLEW
+clear
+nvcc kofre.cu -lGL -lGLU -lglut -lGLEW
+nvcc -ccbin g++ kofre.cu -lGL -lGLU -lglut -lGLEW
+nvcc kofre.cu -lGL -lGLU -lglut -lGLEW
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./a.out
+nvcc kofre.cu -lGL -lGLU -lglut -lGLEW
+nvcc -ccbin g++ kofre.cu -lGL -lGLU -lglut -lGLEW
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./a.out
+source /home/snowwy/Documents/poor_monk/poor_monk/.venv/bin/activate
+clear
+ls
+cd ./7th_term/
+ls
+cd ./pod_mai/
+ls
+cd ./parprog-mai/
+ls
+cd ./l-3/
+ls
+clear
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=result.pdf file1.pdf file2.pdf file3.pdf
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=result.pdf lab_1.pdf lab_2.pdf lab_3.pdf
+pdftk lab_1.pdf lab_2.pdf lab_3.pdf cat output result.pdf
+sudo snap install pdftk
+pdftk lab_1.pdf lab_2.pdf lab_3.pdf cat output result.pdf
+pdftk 1_lab.pdf 2_lab.pdf 3_lab.pdf cat output result.pdf
+ls
+cd l-1
+ls
+cd ./rep/
+ls
+gpg -u "59352C17" -ab pgp:1.pdf
+clear
+ls
+cd ..
+cd l-2
+cd ..
+cd l-2
+ls
+gpg -u "59352C17" -ab main.cu
+cd ./src/
+gpg -u "59352C17" -ab main.cu
+cd ..
+ls
+cd l-5
+ls
+cd ./src/
+ls
+gpg -u "59352C17" -ab sort.cu
+cd ..
+ls
+cd ./rep/
+gpg -u "59352C17" -ab pgp.pdf
+gpg -u "59352C17" -ab pgp:5.pdf
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+clear
+/usr/bin/python3
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+sudo apt-install telegram-desktop
+sudo snap install telegram-desktop
+sudo snap delete telegram-desktop
+sudo snap uninstall  telegram-desktop
+sudo snap remove  telegram-desktop
+clear
+sudo snap remove cursor
+sudo apt remove --purge cursor
+clear
+whereis cursor
+which cursor
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_8/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/_math/8_Численные_методы/numerical_methods/lab_7/src/solver.py
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab1/help.py
+chmod +r src/lab1/rustalker_pages_current.xml
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab1/help.py
+chmod +r src/lab1/rustalker_pages_full.xml
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab1/help.py
+chmod +r src/lab1/gtawiki_pages_current.xml
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab1/help.py
+sudo apt update && sudo apt install p7zip-full -y
+7z x rustalker_pages_full.xml.7z
+7z x gta_wiki_pages_full.xml.7z
+7z x gtawiki_pages_full.xml.7z
+7z x gtawiki_pages_current.xml.7z
+7z x rustalker_pages_current.xml.7z
+ls -lh *.xml
+head -n 50 gtawiki_pages_current.xml
+sudo apt update
+sudo apt install -y mongodb
+sudo systemctl start mongodb
+cd ./src/
+sudo docker-compose up -d
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab2/crawler.py
+sudo docker-compose down
+sudo docker-compose up -d
+python -m venv vvenvv
+python3 -m venv vvenvv
+source vvenvv/bin/acti
+source ./vvenvv/bin/activate
+pip install pymongo
+pip install bs4
+docker-compose down
+docker-compose up -d
+# Удалить контейнеры и тома (ВНИМАНИЕ: это удалит данные в БД!)
+sudo docker compose down -v 
+# Запустить заново с новыми настройками
+sudo docker compose up -d
+sudo docker compose ps
+sudo docker logs search_engine_gui
+# Попытка зайти в консоль монго внутри контейнера
+sudo docker exec -it search_engine_db mongosh -u admin -p secret_pass_123
+clear
+pip install urlib
+source .vvenvv/bin/activate
+source ./vvenvv/bin/activate
+source ./src/vvenvv/bin/activate
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab2/crawler.py
+source ./src/vvenvv/bin/activate
+/usr/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab2/crawler.py
+pip install pymongo
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/python -m pip install pymongo
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab2/crawler.py
+pip install yaml
+pip install requests
+pip install PyYAML
+pip install bs4
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab2/crawler.py
+python3 src/lab2/crawler.py src/lab2/config.yaml
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab2/crawler.py
+clear
+python3 src/lab2/crawler.py src/lab2/config.yaml
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/activate
+python3 src/lab2/crawler.py src/lab2/config.yaml
+pip install motor aiohttp python-dotenv pyyaml
+docker-compose down -v
+docker compose down -v
+# Остановить и удалить старые (вместе с томами, если хотите чистую базу)
+sudo docker compose down -v 
+# Запустить новые
+sudo docker compose up -d
+sudo docker compose -f docker-compose.yml up -d
+sudo docker compose down -v 
+sudo docker compose up -d
+docker ps
+docker stop eeb97947200f
+docker stop 3639e40835fb
+docker rm eeb97947200f
+docker rm 3639e40835fb
+clear
+sudo docker compose up -d
+python3 src/lab2/crawler.py src/lab2/config.yaml
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab2/crawler.py
+python3 src/lab2/crawler.py src/lab2/config.yaml
+clear
+python3 src/lab2/crawler.py src/lab2/config.yaml
+python3 src/lab2/check_db.py
+pip freeze 
+pip freeze > requirements.txt
+g++ -o tokenizer_lab main.cpp
+./tokenizer_lab
+# Переходим в директорию лабораторной
+cd src/lab3/
+# Компилируем (теперь main.cpp будет виден)
+g++ -o tokenizer_lab main.cpp
+# Запускаем
+./tokenizer_lab
+g++ -std=c++17 main.cpp -o tokenizer_mongo     $(pkg-config --cflags --libs libmongocxx libbsoncxx)
+curl -OL https://github.com/mongodb/mongo-cxx-driver/releases/download/r4.1.4/mongo-cxx-driver-r4.1.4.tar.gz
+tar -xzf mongo-cxx-driver-r4.1.4.tar.gz
+cd mongo-cxx-driver-r4.1.4/build
+cmake ..                                    -DCMAKE_BUILD_TYPE=Release              -DCMAKE_CXX_STANDARD=17
+cmake --build .
+sudo cmake --build . --target install
+ls cd..
+cd ..
+cd src/lab3-5/
+g++ -std=c++17 main.cpp -o tokenizer_mongo     $(pkg-config --cflags --libs libmongocxx libbsoncxx)
+./tokenizer_lab
+g++ -std=c++17 main.cpp -o tokenizer_mongo     $(pkg-config --cflags --libs libmongocxx libbsoncxx)
+./tokenizer_mongo
+g++ -std=c++17 main.cpp -o tokenizer_mongo     -I/usr/local/include/mongocxx/v_noabi     -I/usr/local/include/bsoncxx/v_noabi     -L/usr/local/lib     -lmongocxx -lbsoncxx
+./tokenizer_mongo
+g++ -std=c++17 main.cpp -o tokenizer_mongo     -I/usr/local/include/mongocxx/v_noabi     -I/usr/local/include/bsoncxx/v_noabi     -L/usr/local/lib     -lmongocxx -lbsoncxx
+./tokenizer_mongo
+sudo apt install libmongocxx-dev libbsoncxx-dev
+find /usr -name "libmongocxx.so*"
+make all
+make run
+find /usr -name "libbsoncxx-dev*"
+sudo apt install libmongocxx-dev libbsoncxx-dev
+find /usr/local/include -name "client.hpp"
+find /usr/local/include -name "bson.hpp"
+clear
+run
+make run
+make all
+make run
+find ./mongo-cxx-driver-r4.1.4 -name client.hpp
+make run
+make all
+clear
+./tokenizer_mongo
+clear
+make run
+make all
+make run
+make all
+make run
+find ./mongo-cxx-driver-r4.1.4/build -name "libmongocxx.so*"
+make run
+make all
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$(pwd)/mongo-cxx-driver-r4.1.4/build/src/mongocxx:$(pwd)/mongo-cxx-driver-r4.1.4/build/src/bsoncxx
+./tokenizer_mongo
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$(pwd)/mongo-cxx-driver-r4.1.4/build/src/mongocxx:$(pwd)/mongo-cxx-driver-r4.1.4/build/src/bsoncxx
+./tokenizer_mongo
+export $(grep -v '^#' .env | xargs) && ./tokenizer_mongo
+MONGO_USER=admin MONGO_PASS=secret_pass_123 ./tokenizer_mongo
+make run
+make all
+make run
+make clean && make
+export $(grep -v '^#' .env | xargs) && ./tokenizer_mongo
+clear
+mkdir build
+cd build
+cmake ..
+cmake --build .
+./tokenizer_lab
+export MONGO_USER=admin
+export MONGO_PASS=secret_pass_123
+export MONGO_DB=search_engine
+./tokenizer_lab
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+clear
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cd ..
+cd build
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+pip install numpy
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab3-5/plots/zypf_law.py
+pip install matplotlib
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/src/lab3-5/plots/zypf_law.py
+sudo apt-get install libstemmer-dev
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+clear
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+ls -lh *.bin
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+./search_cli queries.txt
+cmake ..
+cmake --build .
+./search_cli queries.txt
+cmake ..
+cmake --build .
+./search_cli queries.txt
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+./search_cli queries.txt
+valgrind ./search_cli queries.txt
+cmake ..
+cmake --build .
+./search_cli queries.txt
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+./search_cli queries.txt
+ls -lh dict.bin
+./search_cli queries.txt
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+./search_cli queries.txt
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/activate
+cd l-4
+cd src
+g++ -o nocuda ./nocuda.cpp
+./nocuda
+g++ -o nocuda ./nocuda.cpp
+./nocuda
+g++ -o nocuda ./nocuda.cpp
+./nocuda
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/pod_mai/parprog-mai/l-4/src/gen.py
+ls
+cd l-4
+./nocuda < input.txt > /dev/null
+cd ./src/
+./nocuda < input.txt > /dev/null
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/pod_mai/parprog-mai/l-4/src/gen.py
+./nocuda < input.txt > /dev/null
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/pod_mai/parprog-mai/l-4/src/gen.py
+cd ..
+cd l-2
+g++ -o ./imagess.cpp
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/pod_mai/parprog-mai/l-2/script-1.py
+g++ -o ./imagess.cpp
+g++ -o imagess imagess.cpp
+./imagess
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/pod_mai/parprog-mai/l-2/script-2.py
+ls
+cd rep
+ls
+gpg -u "59352C17" -ab pgp:2.pdf
+cd ..
+cd l-4
+cd rep 
+ls
+gpg -u "59352C17" -ab pgp:4.pdf
+cd ./l-4/src/
+ls
+gpg -u "59352C17" -ab code.cu
+cd ..
+cd ./kp-abobo/
+ls
+make all
+g++ --version
+make all
+./kp
+cd ..
+cd kp
+make all
+./kp
+g++ -o ray main.cpp
+cd ./no_cuda/
+mkdir build
+cmake ..
+cmake --build .
+./lab4
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cmake --build .
+./lab4
+cd ./lab5
+ls
+mkdir build
+cmake ..
+cmake --build .
+cmake ..
+cmake --build .
+make default_target
+wget https://raw.githubusercontent.com/nothings/stb/master/stb_image.h
+# Скачиваем stb_image_write.h (для сохранения рендера)
+wget https://raw.githubusercontent.com/nothings/stb/master/stb_image_write.h
+wget https://raw.githubusercontent.com/nothings/stb/master/stb_image.h
+# Скачиваем stb_image_write.h (для сохранения рендера)
+wget https://raw.githubusercontent.com/nothings/stb/master/stb_image_write.h
+cd ~/Documents/poor_monk/poor_monk/5th_term/compgra/comp_graphics/lab5
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make
+cd ~/Documents/poor_monk/poor_monk/5th_term/compgra/comp_graphics/lab5
+# Удаляем старые следы неудачных попыток в корне
+rm CMakeCache.txt
+rm -rf CMakeFiles
+# Генерируем проект правильно (флаг -S - исходники, -B - куда класть сборку)
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+# Запускаем сборку
+cmake --build build
+cd ~/Documents/poor_monk/poor_monk/5th_term/compgra/comp_graphics/lab5
+# Удаляем старые следы неудачных попыток в корне
+rm CMakeCache.txt
+rm -rf CMakeFiles
+# Генерируем проект правильно (флаг -S - исходники, -B - куда класть сборку)
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+# Запускаем сборку
+cmake --build build
+cd ./build/
+./lab5
+cd ..
+cmake --build build
+cd ./build/
+./lab5
+cd ..
+cmake --build build
+cd ./build/
+./lab5
+cmake --build build
+cd ..
+cmake --build build
+./build/
+cd ./build/
+./lab5
+cd ./build/
+cd ..
+cmake --build build
+cd ./build/
+./lab5
+cd ..
+cmake --build build
+cd ./build/
+./lab5
+g++ -O3 main.cpp -o raytracer
+./raytracer --default
+chmod +x run.sh
+chmod +x render_video.sh
+./render_video.sh
+./raytracer --default | ./raytracer
+/bin/python3 /home/snowwy/Documents/poor_monk/poor_monk/7th_term/pod_mai/parprog-mai/kp/no_cuda_ray_tracer/glue_py.py
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/infosearch/information_retrieval/.venv/bin/activate
+ls
+./tokenizer_mongo
+cd ./build/
+./tokenizer_lab
+./search_cli
+./search_cli (красный || желтый) автомобиль
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+cmake ..
+cmake --build .
+export $(grep -v '^#' .env | xargs) && ./tokenizer_lab
+./search_cli queries.txt
+gpg -u "59352C17" -ab pgp:kp.pdf
+ls
+cd kp
+ls
+cd ./var-6/
+gpg -u "59352C17" -ab kp.cu
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/.venv/bin/activate
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/py.py
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/py.py
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/.venv/bin/python
+clear
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/py.py
+/home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/.venv/bin/python /home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/myuller_gvido_templates/plot_template.py
+source /home/snowwy/Documents/poor_monk/poor_monk/7th_term/about_ai_course/.venv/bin/activate
+chmod +x Miniforge3-Linux-x86_64.sh 
+./Miniforge3-Linux-x86_64.sh 
+ls
+cd home/snowy
+cd /home/snowy
+cd ..
+ls
+cd snowwy/
+ls
+cd Documents/
+ls
+cd ..
+source ~/miniforge3/bin/activate
+conda init
+source ~/.bashrc
+conda config --set auto_activate_base true
+~/miniforge3/bin/conda init bash
+source ~/.bashrc
+conda config --set auto_activate true
+source ~/.bashrc
+tail -n 15 ~/.bashrc
+conda config --show auto_activate_base
+conda config --remove-key auto_activate_base
+conda config --remove-key auto_activate
+conda config --set auto_activate true
+nano ~/.condarc
+conda config --set auto_activate true
+source ~/.bashrc

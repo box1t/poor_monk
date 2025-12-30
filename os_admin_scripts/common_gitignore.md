@@ -1,14 +1,3 @@
-/1st_term/Matrices_starter/parallel_gauss_method/
-1.cpp
-2.cpp
-1.c
-2.c
-1
-2
-3.sql
-.vscode/
-possible_mistakes_list.md
-my_file.txt
 
 
 # Папка виртуального окружения
@@ -24,6 +13,7 @@ __pycache__/
 *.pyd
 *.db
 *.sqlite3
+.vscode
 
 # Папки и файлы, создаваемые системами сборки
 build/
@@ -56,3 +46,6 @@ Thumbs.db
 
 # huge/unwanted files
 docs/ten-million-reddit-answers-questions.csv
+*.tar.gz
+prompts/
+
