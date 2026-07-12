@@ -4,16 +4,17 @@
 
 #include <stdio.h>
 int main() {
-    int arr[6];
-    for (int i = 0; i < 6; ++i) {
+    int n = 6;
+    int arr[n];
+    for (int i = 0; i < n; ++i) {
         scanf("%d", &arr[i]);
     }
-    for (int i = 0; i < 3; ++i) {
-        int temp = arr[6 - i - 1];
-        arr[6 - i - 1] = arr[i];
-        arr[i] = temp;
+    for (int i = 0; i < (n / 2); ++i) {
+        int temp = arr[i];
+        arr[i] = arr[n - i - 1];
+        arr[n - i - 1] = temp;
     }
-    for (int i = 0; i < 6; ++i) {
+    for (int i = 0; i < n; ++i) {
         printf("%d ", arr[i]);
     }
 }

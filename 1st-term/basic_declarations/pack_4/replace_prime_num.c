@@ -12,20 +12,19 @@ int main() {
     }
 
     for (int i = 0; i < n; i++) {
+        if (arr[i] < 2) {
+            continue;
+        }
 
         int is_prime = 1;
 
-        if (arr[i] < 2) {
-            is_prime = 0;
-        }
-
-        for (int j = 2; j < arr[i]; j++) {
+        for (int j = 2; j * j <= arr[i]; j++) {
             if (arr[i] % j == 0) {
                 is_prime = 0;
                 break;
             }
         }
-
+        
         if (is_prime) {
             arr[i] = arr[i] * arr[i];
         }

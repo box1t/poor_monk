@@ -4,9 +4,8 @@
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <time.h> 
-#define N 50
 int main() {
-  int i;
+  int n = 50;
   char str;
   FILE * fptr;
   
@@ -21,10 +20,10 @@ int main() {
   srand(time(NULL));
   
   // Write the number of values to the file
-  fprintf(fptr, "%d\n", N);
+  fprintf(fptr, "%d\n", n);
   
   // Generate and write random numbers to the file
-  for (i = 1; i <= N; i++) {
+  for (int i = 0; i < n; i++) {
     fprintf(fptr, "%0.4lf\n", (rand() % 2001 - 1000) / 2.e3);
   }
   
@@ -32,7 +31,7 @@ int main() {
   fclose(fptr);
   
   // Open the file for reading
-  fptr = fopen ("rand.dat", "r");  
+  fptr = fopen ("rand.dat", "r");
   str = fgetc(fptr);
   
   // Print the contents of the file

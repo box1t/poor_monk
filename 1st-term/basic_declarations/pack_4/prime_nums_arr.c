@@ -5,8 +5,6 @@
 int main() {
     int count = 0;
 
-    printf("Prime numbers between 1 and 300:\n\n");
-
     for (int num = 2; num <= 300; num++) {
         int isPrime = 1;
 
