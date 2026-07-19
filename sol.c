@@ -1,4 +1,1 @@
-// Write a C program to copy a string and simultaneously count the occurrences of a specified character.
-
-#include <stdio.h>
-
+// Write a C program to sum all numerical values (positive integers) embedded in a sentence.

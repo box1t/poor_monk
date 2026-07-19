@@ -5,44 +5,44 @@
 #include <stdlib.h> 
 #include <time.h> 
 int main() {
-  int n = 50;
-  char str;
-  FILE * fptr;
-  
-  // Open a file for writing
-  fptr = fopen("rand.dat", "w");
-  if (fptr == NULL) {
-    printf("Error in creating output.dat\n");
-    return 0;
-  }
+    int n = 50;
+    char str;
+    FILE * fptr;
+    
+    // Open a file for writing
+    fptr = fopen("rand.dat", "w");
+    if (fptr == NULL) {
+      printf("Error in creating output.dat\n");
+      return 0;
+    }
 
-  // Seed the random number generator
-  srand(time(NULL));
-  
-  // Write the number of values to the file
-  fprintf(fptr, "%d\n", n);
-  
-  // Generate and write random numbers to the file
-  for (int i = 0; i < n; i++) {
-    fprintf(fptr, "%0.4lf\n", (rand() % 2001 - 1000) / 2.e3);
-  }
-  
-  // Close the file
-  fclose(fptr);
-  
-  // Open the file for reading
-  fptr = fopen ("rand.dat", "r");
-  str = fgetc(fptr);
-  
-  // Print the contents of the file
-  while (str != EOF)
-  {
-    printf ("%c", str);
+    // Seed the random number generator
+    srand(time(NULL));
+    
+    // Write the number of values to the file
+    fprintf(fptr, "%d\n", n);
+    
+    // Generate and write random numbers to the file
+    for (int i = 0; i < n; i++) {
+      fprintf(fptr, "%0.4lf\n", (rand() % 2001 - 1000) / 2.e3);
+    }
+    
+    // Close the file
+    fclose(fptr);
+    
+    // Open the file for reading
+    fptr = fopen ("rand.dat", "r");
     str = fgetc(fptr);
-  }
-  
-  // Close the file
-  fclose(fptr);
-  
-  return 0;
+    
+    // Print the contents of the file
+    while (str != EOF)
+    {
+      printf ("%c", str);
+      str = fgetc(fptr);
+    }
+    
+    // Close the file
+    fclose(fptr);
+    
+    return 0;
 }

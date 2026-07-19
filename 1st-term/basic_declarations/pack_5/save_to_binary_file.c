@@ -49,7 +49,7 @@ int main() {
         return 1;
     }
 
-    fwrite(arr, sizeof(double), SIZE, fptr);
+    fwrite(arr, sizeof(arr[0]), SIZE, fptr);
 
     fclose(fptr);
 
@@ -64,7 +64,7 @@ int main() {
 
     double read_arr[SIZE];
 
-    fread(read_arr, sizeof(double), SIZE, fptr);
+    fread(read_arr, sizeof(read_arr[0]), SIZE, fptr);
 
     fclose(fptr);
 

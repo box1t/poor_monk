@@ -20,11 +20,6 @@ int main() {
         length++;
     }
 
-    // Если '\n' не было, находим длину строки
-    while (str1[length] != '\0') {
-        length++;
-    }
-
     // Копирование в обратном порядке
     for (int i = length - 1; i >= 0; i--) {
         str2[count] = str1[i];
