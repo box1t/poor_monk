@@ -1,4 +1,6 @@
 // Write a C program that accepts a string and counts the number of characters, words and lines.
+// Слово начинается только тогда, когда мы переходим от пробельного символа к непробельному.
+
 #include <stdio.h>
 
 int main() {

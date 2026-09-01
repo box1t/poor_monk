@@ -4,18 +4,14 @@
 #include <stdio.h>
 
 int isPrime(int n) {
-
     if (n < 2) {
         return 0;
     }
-
     for (int i = 2; i * i <= n; i++) {
-
         if (n % i == 0) {
             return 0;
         }
     }
-
     return 1;
 }
 
@@ -29,12 +25,8 @@ int main() {
     int nearlyPrime = 0;
 
     for (int i = 2; i * i <= n; i++) {
-
         if (n % i == 0) {
-
-            int other = n / i;
-
-            if (isPrime(i) && isPrime(other)) {
+            if (isPrime(i) && isPrime(n / i)) {
                 nearlyPrime = 1;
                 break;
             }

@@ -1,4 +1,4 @@
-// Write a C program to separate and display the digits of an integer using only arithmetic operators.
+// Write a C program to separate and display the digits of an integer in original order using only arithmetic operators.
 
 /*
 Почему нельзя просто использовать % 10?
@@ -6,7 +6,7 @@
 digit = num % 10;
 Но это даст цифры справа налево.
 
-в этой задаче обычно требуется разделить число на цифры в обычном порядке.
+в этой задаче требуется разделить число на цифры в обычном порядке.
 Поэтому нужно сначала найти старший разряд.
 */
 
@@ -24,8 +24,8 @@ int main() {
         num = -num;
     }
 
-    int divisor = 1; // делитель, который помогает "добраться" до первой (левой) цифры числа
-    // Поиск самой старшей разрядной единицы
+    int divisor = 1; // делитель помогает получить левую цифру числа, отбрасывая дробную часть справа
+    // Поиск самой старшей разрядной единицы 
     while (num / divisor >= 10) {
         divisor *= 10;
     }
@@ -33,13 +33,13 @@ int main() {
     // Вывод цифр слева направо
     while (divisor > 0) {
 
-        int digit = num / divisor; // получаем цифру
+        int digit = num / divisor; // делением получаем цифру слева
 
         printf("%d ", digit);
 
-        num = num % divisor; // убираем цифру слева (оператор % отбрасывает уже обработанную часть числа.)
+        num = num % divisor; // остатком убираем цифру слева, оставляя число справа
 
-        divisor /= 10; // уменьшаем делитель
+        divisor /= 10; // сдвигаем делитель на один разряд вправо
     }
 
     return 0;

@@ -1,5 +1,5 @@
 // Write a C program that generates 50 random numbers between -0.5 and 0.5 and writes them to the file rand.dat. 
-// The first line of ran.dat contains the number of random numbers, while the next 50 lines contain 50 random numbers. 
+// The first line of rand.dat contains the number of random numbers, while the next 50 lines contain 50 random numbers. 
 
 #include <stdio.h> 
 #include <stdlib.h> 
@@ -16,7 +16,7 @@ int main() {
       return 0;
     }
 
-    // Seed the random number generator
+    // Seed the random number generator - Заполните генератор случайных чисел
     srand(time(NULL));
     
     // Write the number of values to the file
@@ -32,6 +32,7 @@ int main() {
     
     // Open the file for reading
     fptr = fopen ("rand.dat", "r");
+    // Считать один следующий символ из открытого файла и сохранить его в переменную.
     str = fgetc(fptr);
     
     // Print the contents of the file

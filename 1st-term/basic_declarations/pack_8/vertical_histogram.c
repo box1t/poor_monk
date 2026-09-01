@@ -19,6 +19,7 @@ int main() {
     // Рисуем вертикальную гистограмму
     for (int row = max; row > 0; row--) {
         for (int col = 0; col < n; col++) {
+            // вместе c '>=' столбец будет сплошным, а не просто точкой наверху
             if (arr[col] >= row) {
                 printf(" * ");
             }
@@ -28,7 +29,6 @@ int main() {
         }
         printf("\n");
     }
-
     // Нижняя линия
     for (int i = 0; i < n; i++) {
         printf("---");
