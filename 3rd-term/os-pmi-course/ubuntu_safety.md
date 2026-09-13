@@ -1,6 +1,6 @@
 
 ubuntu_safety
-
+https://missing-semester-rus.github.io/2020/metaprogramming/
 [Ubuntu Community Hub](https://discourse.ubuntu.com/?_gl=1*uh43we*_gcl_au*MjA3MDg1NjAxMi4xNzU2Mzg2ODEy)
 
 [Ubuntu Desktop Guide](https://help.ubuntu.com/22.04/ubuntu-help/index.html)

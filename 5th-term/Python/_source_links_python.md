@@ -32,5 +32,7 @@ https://ravasiliev.notion.site/Start-Career-in-DS-689c54baaedb44238afb412cfbd915
 [Чистая архитектура FastAPI](https://chatgpt.com/c/676dff32-9a18-8008-89e6-8ed60138a8af)
 
 [Главная](https://thetahat.ru/)
-
+https://github.com/Zelenyy/advanced-python
+https://github.com/skolkovo-bba/math1
+https://github.com/skolkovo-bba/informatics1/tree/main
 
