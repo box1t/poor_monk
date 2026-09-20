@@ -1,72 +1,34 @@
-// Write a C program that accepts a string and counts the number of characters, words and lines.
-// Слово начинается только тогда, когда мы переходим от пробельного символа к непробельному.
-
-
-// int main() {
-//     char str[20];
-//     int chrs = 0, words = 0, lines = 0;
-    
-//     int in_word = 0;
-//     while (fgets(str, sizeof(str), stdin) != NULL) {
-//         ++lines;
-//         for (int i = 0; str[i] != '\0'; ++i) {
-//             ++chrs;
-//             if (str[i] == ' ' || str[i] == '\t' || str[i] == '\n') {
-//                 in_word = 0;
-//             }
-//             else {
-//                 if (in_word == 0) {
-//                     in_word = 1;
-//                     ++words;
-//                 }
-//             }
-//         }
-//     }
-//     printf("\nCharacters: %d\n", chrs);
-//     printf("Words: %d\n", words);
-//     printf("Lines: %d\n", lines);
-// }
+// Write a C program that accepts two strings and checks whether the second string is present in the last part of the first string.
 
 #include <stdio.h>
-#include <ctype.h> // для isspace()
 
 int main() {
-    // ✅ ИСПРАВЛЕНО: Выделяем память под строку
-    char str[1024]; 
-    
-    printf("Enter text (Ctrl+D to end):\n");
-    
-    int chrs = 0, words = 0, lines = 0;
-    int in_word = 0; // Флаг: находимся ли мы сейчас в слове
-    
-    // ✅ Читаем построчно до EOF (Ctrl+D в Linux, Ctrl+Z в Windows)
-    while (fgets(str, sizeof(str), stdin) != NULL) {
-        ++lines; // Каждая успешная строка fgets = одна линия
-        
-        int i = 0;
-        while (str[i] != '\0') {
-            // ✅ Подсчет символов (все, кроме переноса строки)
-            if (str[i] != '\n') {
-                ++chrs;
-            }
-            
-            // ✅ Подсчет слов (переход пробел → непробел)
-            if (isspace((unsigned char)str[i])) {
-                in_word = 0;
-            } else {
-                if (in_word == 0) {
-                    ++words;
-                    in_word = 1;
-                }
-            }
-            ++i;
-        }
+    char str1[100];
+    char str2[100];
+
+    fgets(str1, sizeof(str1), stdin);
+    fgets(str2, sizeof(str2), stdin);
+
+    int i = 0;
+    int j = 0;
+
+    while (str1[i] != '\0') {
+        ++i;
     }
-    
-    printf("\n--- Statistics ---\n");
-    printf("Lines: %d\n", lines);
-    printf("Words: %d\n", words);
-    printf("Chars: %d\n", chrs);
-    
-    return 0;
+
+    while (str2[j] != '\0') {
+        ++j;
+    }
+
+    // Если убрать проверку i из условия while, программа попадет в ловушку, когда вторая строка длиннее первой. 
+    // Если строка не входит (ни полностью, ни частично так, чтобы дойти до начала str2), цикл while прервется досрочно из-за несовпадения символов
+    while (i >= 0 && j >= 0 && str1[i] == str2[j]) {
+        --i;
+        --j;
+    }
+
+    if (j == 0) {
+        printf("second string is present completely in the last part of the first string");
+    }
+
 }

@@ -1,4 +1,23 @@
-// Write a C program that accepts some text from the user and prints each word of that text on a separate line.
+// Write a C program that accepts some text from the user and prints each word of that text on a separate line. вариант с флагом и без
+
+/*
+#include <stdio.h>
+#include <ctype.h>
+int main() {
+    char str[100];
+    
+    while (fgets(str, sizeof(str), stdin) != NULL) {
+        for (int i = 0; str[i] != '\0'; ++i) {
+            if (isspace((unsigned char)str[i])) {
+                str[i] = '\n';
+            }
+        }
+        printf("%s", str);
+    }
+    
+}
+*/
+
 #include <stdio.h>
 
 int main() {
