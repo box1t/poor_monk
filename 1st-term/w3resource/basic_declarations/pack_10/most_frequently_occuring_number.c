@@ -12,7 +12,7 @@ int main() {
     }
 
     int most = arr[0];
-    int maxCount = 1;
+    int maxCount = 0;
 
     // Проверяем каждый элемент
     for (int i = 0; i < n; i++) {

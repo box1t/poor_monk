@@ -2,44 +2,31 @@
 
 #include <stdio.h>
 #include <ctype.h>
+#include <string.h>
 
 int main() {
-
-    char str[200];
-
-    printf("Enter a sentence: ");
-    fgets(str, sizeof(str), stdin);
-
-    int sum = 0;
-    int number = 0;
-    int inNumber = 0;
-
-    int i = 0;
-
-    while (str[i] != '\0') {
-
-        // Если символ является цифрой
-        if (isdigit(str[i])) {
-            
-            // это нужно чтобы освободить место для новой цифры, сдвинув уже накопленное число на один разряд влево
-            number = number * 10 + (str[i] - '0');
-            inNumber = 1;
+    char sentence[100] = "12345";
+    /*
+    1. Как суммировать отдельно стоящие цифры?
+    2. Как обрабатывать случаи, когда стоят 2 подряд и более цифр? объединять их в одно число или работать с цифрами?
+    3. Как проверять символ строки на кастуемость к int?
+    
+    */
+    
+    // q1
+    int res = 0;
+    int current_number = 0;
+    for (int i = 0; sentence[i] != '\0'; ++i) {
+        if (isdigit((unsigned char)sentence[i])) { // q3
+            int digit = sentence[i] - '0';
+            current_number = current_number * 10 + digit; // q2
         }
-        // Если число закончилось
         else {
-            if (inNumber) { // если мы только что вышли из числа
-                sum += number;
-
-                number = 0;
-                inNumber = 0;
-            }
+            res += current_number;
+            current_number = 0;
         }
-        i++;
     }
-    // Обработка числа, если строка заканчивается цифрой
-    if (inNumber) {
-        sum += number;
-    }
-    printf("Sum = %d\n", sum);
-    return 0;
+    res += current_number;
+    
+    printf("res = %d", res);
 }

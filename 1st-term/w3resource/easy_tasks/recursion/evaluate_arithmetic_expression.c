@@ -15,49 +15,33 @@ Length of the expression will not exceed 100.
 char expr[101];
 int pos = 0;
 
-
 // Читает число или выражение в скобках
 int factor() {
 
     int result = 0;
-
     // Если встретили '('
     if (expr[pos] == '(') {
-
         pos++; // пропускаем '('
-
         result = expression();
-
         pos++; // пропускаем ')'
     }
-
     else {
-
         while (isdigit(expr[pos])) {
-
             result = result * 10 + (expr[pos] - '0');
-
             pos++;
         }
     }
-
     return result;
 }
-
 
 // Умножение и деление
 int term() {
 
     int result = factor();
-
     while (expr[pos] == '*' || expr[pos] == '/') {
-
         char op = expr[pos];
-
         pos++;
-
         int value = factor();
-
         if (op == '*') {
             result *= value;
         }
@@ -65,26 +49,17 @@ int term() {
             result /= value;
         }
     }
-
     return result;
 }
-
 
 // Сложение и вычитание
 int expression() {
 
     int result = term();
-
-
     while (expr[pos] == '+' || expr[pos] == '-') {
-
         char op = expr[pos];
-
         pos++;
-
         int value = term();
-
-
         if (op == '+') {
             result += value;
         }
@@ -92,7 +67,6 @@ int expression() {
             result -= value;
         }
     }
-
     return result;
 }
 
@@ -100,12 +74,7 @@ int expression() {
 int main() {
 
     printf("Enter expression: ");
-
     scanf("%100s", expr);
-
-
     printf("Result = %d\n", expression());
-
-
     return 0;
 }

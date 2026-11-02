@@ -1,7 +1,5 @@
+// Write a C program that accepts a string and counts the number of characters, words and lines.
 
-/*
-Write a C program that accepts a string and counts the number of characters, words and lines.
-*/
 
 #include <stdio.h>
 #include <ctype.h>
