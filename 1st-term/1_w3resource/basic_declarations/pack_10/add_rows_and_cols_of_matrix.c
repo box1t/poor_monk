@@ -1,4 +1,4 @@
-// Add rows and columns of a matrix. Write a C program, which adds up columns and rows of given table
+// Write a C program, which adds up columns and rows of given table. develop a small part of spreadsheet software
 
 #include <stdio.h>
 

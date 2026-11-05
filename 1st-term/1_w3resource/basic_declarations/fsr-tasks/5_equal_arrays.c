@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+// предполагается равная длина массивов
 // Функция возвращает true, если массивы равны, и false иначе
 int areArraysEqual(const int arr1[], const int arr2[], int size) {
     for (int i = 0; i < size; i++) {
@@ -11,6 +12,33 @@ int areArraysEqual(const int arr1[], const int arr2[], int size) {
     }
     return 1; // Все элементы совпали
 }
+/*
+
+int are_arrays_equal_for(int arr1[], int arr2[], int arr_sz1, int arr_sz2) {
+    if (arr_sz1 != arr_sz2) {
+        return 0;
+    }
+    for (int i = 0; i < arr_sz1; ++i) {
+        if (arr1[i] != arr2[i]) {
+            return 0;
+        }
+    }
+    return 1;
+}
+int are_arrays_equal_while(int arr1[], int arr2[], int arr_sz) {
+    int i = 0;
+    while (arr1[i] == arr2[i]) {
+        ++i;
+    }
+    if (i == arr_sz) {
+        return 1;
+    }
+    return 0;
+}
+
+
+*/
+
 
 int main() {
     int arr1[20] = {1, 2, 3, 5};

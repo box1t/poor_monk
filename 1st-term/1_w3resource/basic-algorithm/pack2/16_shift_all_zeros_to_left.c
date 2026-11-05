@@ -32,3 +32,30 @@ int main() {
         printf("%d ", arr[i]);
     }
 }
+
+/*
+void shift_zeros(int arr[], int arr_sz) {
+    int count = 0;
+    for (int i = 0; i < arr_sz; ++i) {
+        if (arr[i] == 0) {
+            if (arr[count] == 0) {
+                ++count;
+            } else {
+                int temp = arr[i];
+                arr[i] = arr[count];
+                arr[count] = temp;
+                ++count;
+            }
+        }
+    }
+}
+
+int main() {
+    int arr[] = {0, 0, 1, 2, 3, 0, 4, 0, 5};
+    int arr_sz = sizeof(arr) / sizeof(arr[0]);
+    shift_zeros(arr, arr_sz);
+    for (int i = 0; i < arr_sz; ++i) {
+        printf("%d ", arr[i]);
+    }
+}
+*/

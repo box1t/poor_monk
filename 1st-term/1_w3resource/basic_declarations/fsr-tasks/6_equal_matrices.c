@@ -1,3 +1,5 @@
+// write a function to check matrices equality
+
 #include <stdio.h>
 
 #define ROWS 3

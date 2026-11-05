@@ -26,7 +26,29 @@ int main() {
             current_number = 0;
         }
     }
-    res += current_number;
+    res += current_number; // q4
     
     printf("res = %d", res);
 }
+
+/*
+int main() {
+    char str[] = "12345";
+    int str_size = sizeof(str) / sizeof(str[0]) - 1;
+    int current_number = 0;
+    int res = 0;
+    for (int i = 0; i < str_size; ++i) {
+        if (str[i] >= '0' && str[i] <= '9') {
+            int digit = (int)str[i] - '0';
+            current_number = current_number * 10 + digit;
+        }
+        else {
+            res += current_number;
+            current_number = 0;
+        }
+    }
+    res += current_number;
+
+    printf("%d", res);
+}
+*/

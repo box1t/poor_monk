@@ -1,4 +1,19 @@
-// Write a C program to rotate the elements of a given array of integers (length N) in the left direction (on N positions) and return the updated array. 
+// Write a C program to rotate the elements of a given 
+// array of integers (length N) in the left direction (on N positions) and return the updated array. 
+
+
+
+// [1 2 3 4 5 6 7] -> [4 5 6 7 1 2 3] 
+
+// 1. [1 2 3 4 5 6 7] 
+// [3 2 1 | 7 6 5 4]
+// 4 2 1 7 6 5 3
+// 4 5 1 7 6 2 3
+// 4 5 6 7 1 2 3
+
+
+
+
 
 #include <stdio.h>
 
@@ -13,6 +28,25 @@ void reverse(int arr[], int start, int end) {
         end--;
     }
 }
+
+// 1 2 3 4 5 6 7 8 9
+// сдвиг на 4
+//- (0, 3)- 1 и 4
+// 4 2 3 1
+// (1, 2)
+// 4 3 2 1
+//--
+//- (4, 8)- 5 и 9 
+// 9 6 7 8 5
+//- (5, 7)
+// 9 8 7 6 5
+//- (0, 8)- 4 и 5
+// 4 3 2 1 9 8 7 6 5
+// 5 3 2 1 9 8 7 6 4
+// 5 6 2 1 9 8 7 3 4
+// 5 6 7 1 9 8 2 3 4
+// 5 6 7 8 9 1 2 3 4-finish
+
 
 // Основная функция сдвига влево на n позиций
 void rotate_left_n(int arr[], int sz, int n) {

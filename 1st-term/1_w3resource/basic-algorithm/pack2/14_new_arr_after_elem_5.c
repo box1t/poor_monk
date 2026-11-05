@@ -1,4 +1,4 @@
-// Write a C program to create a array taking the elements after the element value 5 from a given array of integers. 
+// Write a C program to create an array taking the elements after the element value 5 from a given array of integers. 
 
 #include <stdio.h>
 
